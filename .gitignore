@@ -1,0 +1,18 @@
+# Результаты сборки и отладки MSVC
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.pch
+.vs/
+x64/
+Debug/
+Release/
+
+# Временные файлы редактора и системы
+*.tmp
+*.log
+~$*.docx
+Thumbs.db
