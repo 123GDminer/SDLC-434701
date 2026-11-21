@@ -17,19 +17,19 @@ package ElectronicGuide {
     }
 
     use case def BrowseCountries {
-        doc /* Посетитель просматривает страны, внесённые в базу. */
+        doc /* Посетитель просматривает страны из базы. При ошибке загрузки получает сообщение; частичные записи не показываются как полный каталог. */
         subject guide : GuideSystem;
         actor visitor : Visitor;
     }
 
     use case def ViewAttractions {
-        doc /* Посетитель выбирает страну и видит её достопримечательности. */
+        doc /* При выборе страны обновляются списки достопримечательностей и маршрутов. */
         subject guide : GuideSystem;
         actor visitor : Visitor;
     }
 
     use case def ViewRoute {
-        doc /* Посетитель видит маршрут и порядок его точек. */
+        doc /* Посетитель видит страну, название маршрута и порядок остановок. */
         subject guide : GuideSystem;
         actor visitor : Visitor;
     }
