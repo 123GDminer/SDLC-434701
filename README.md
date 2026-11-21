@@ -8,6 +8,8 @@
 
 ## Документы проекта
 
+[Материалы лабораторной № 3: отчёт, шесть рисунков и модели](lab3/README.md)
+
 - [Предварительная спецификация требований](srs/electronic-guide-srs.md) — результат лабораторной работы № 3.
 - [Модель SysML v2](srs/models/electronic-guide.sysml) и [диаграмма сценариев](srs/graphics/electronic-guide-use-cases.png) — представление границ системы и макетов интерфейса.
 - Макеты первого выпуска: [выбор по времени](srs/graphics/catalog-mockup.png), [карточка прогулки](srs/graphics/route-mockup.png), [публикация отзыва и обмен ссылкой](srs/graphics/review-mockup.png).

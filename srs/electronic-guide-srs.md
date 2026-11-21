@@ -178,6 +178,8 @@
 
 ## 5. Приложения
 
+[Указатель рисунков отчёта и исходных моделей](../lab3/README.md).
+
 - [Текстовая модель SysML v2](models/electronic-guide.sysml).
 - [Диаграмма вариантов использования](graphics/electronic-guide-use-cases.png).
 - [Макет каталога стран и достопримечательностей](graphics/catalog-mockup.png).
