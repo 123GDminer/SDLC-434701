@@ -1,19 +1,29 @@
-# Лабораторная работа № 3. Электронный путеводитель
+# Электронный путеводитель. Лабораторная работа № 3
 
-[Отчёт Word](Юденко_Л3.docx) · [Отчёт PDF](Юденко_Л3.pdf) · [Спецификация](../srs/electronic-guide-srs.md)
+[Актуальный отчёт Word](lab3.docx) · [PDF](lab3.pdf) · [Спецификация](SDLC-lab3_business-requirements/srs.md)
 
-## Иллюстрации из отчёта
+## Рисунки
 
-| Рисунок | Отдельный файл PNG |
-|---|---|
-| 4.3.1 | [Контекст просмотра маршрута](../srs/graphics/system-context.png) |
-| 5.2.1 | [Выбор страны и достопримечательностей](../srs/graphics/catalog-mockup-report.png) |
-| 5.3.1 | [Последовательность посещения объектов](../srs/graphics/route-mockup-report.png) |
-| 5.5.1 | [Варианты использования путеводителя](../srs/graphics/electronic-guide-use-cases.png) |
-| 5.6.1 | [Добавление фотографий к отзыву](../srs/graphics/review-photos-mockup.png) |
-| 6.1.1 | [Выбранные изменения в ветке проекта](../srs/graphics/git-history.png) |
+- [01-business-goals](sysml/01-business-goals.png)
+- [02-context](sysml/02-context.png)
+- [03-usecases](sysml/03-usecases.png)
+- [04-catalog-states](sysml/04-catalog-states.png)
+- [05-review-flow](sysml/05-review-flow.png)
+- [06-navigation](sysml/06-navigation.png)
+- [07-gui-catalog](sysml/07-gui-catalog.png)
+- [08-gui-route](sysml/08-gui-route.png)
+- [09-gui-publication](sysml/09-gui-publication.png)
+- [10-gui-review-photos](sysml/10-gui-review-photos.png)
+- [14-git-history](sysml/14-git-history.png)
+- [catalog-mockup-report](sysml/catalog-mockup-report.png)
+- [route-mockup-report](sysml/route-mockup-report.png)
 
-## Исходные модели SysML v2
+## Текстовые модели
 
-- [Контекст и варианты использования](../srs/models/electronic-guide.sysml)
-- [Состав отзыва с фотографиями](../srs/models/review-photos.sysml)
+- [01-context](sysml/models/01-context.sysml)
+- [02-usecases](sysml/models/02-usecases.sysml)
+- [03-business-goals](sysml/models/03-business-goals.sysml)
+- [04-catalog-states](sysml/models/04-catalog-states.sysml)
+- [05-review-flow](sysml/models/05-review-flow.sysml)
+- [06-gui](sysml/models/06-gui.sysml)
+- [review-photos](sysml/models/review-photos.sysml)
