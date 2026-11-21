@@ -33,4 +33,21 @@ package ElectronicGuide {
         subject guide : GuideSystem;
         actor visitor : Visitor;
     }
+    use case def PublishReview {
+        doc /* Посетитель добавляет место или маршрут и публикует свой отзыв. */
+        subject guide : GuideSystem;
+        actor visitor : Visitor;
+    }
+
+    use case def ShareReview {
+        doc /* Автор передаёт ссылку через внешний канал. Получатель открывает обзор. */
+        subject guide : GuideSystem;
+        actor visitor : Visitor;
+    }
+
+    use case def FilterByDuration {
+        doc /* Турист задаёт лимит времени и видит прогулки выбранной страны в пределах лимита. */
+        subject guide : GuideSystem;
+        actor visitor : Visitor;
+    }
 }
