@@ -29,7 +29,7 @@ package ElectronicGuide {
     }
 
     use case def ViewRoute {
-        doc /* Посетитель видит страну, название маршрута и порядок остановок. */
+        doc /* Посетитель видит страну, название маршрута, длительность в минутах и порядок остановок. */
         subject guide : GuideSystem;
         actor visitor : Visitor;
     }

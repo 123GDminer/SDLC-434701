@@ -1,3 +1,7 @@
+# Требования к электронному путеводителю
+
+[Спецификация и критерии приёмки](electronic-guide-srs.md) · [Модель SysML v2](models/electronic-guide.sysml) · [Диаграмма и макеты](graphics/)
+
 
 # SRS Templates / Шаблоны SRS
 
