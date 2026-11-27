@@ -2,7 +2,7 @@
 
 [Актуальный отчёт Word](lab3.docx) · [PDF](lab3.pdf) · [Спецификация](SDLC-lab3_business-requirements/srs.md)
 
-Версия 0.8. В спецификации 20 требований с ID и критериями приёмки. В отчёте 16 рисунков и 14 таблиц.
+Версия 0.8. В спецификации 20 требований с ID и критериями приёмки. В приложении А отчёта приведены исходники девяти моделей. Диаграммы и макеты получены из SysML v2. Рисунок 6.1 показывает историю изменений Git.
 
 ## Рисунки
 
@@ -37,4 +37,16 @@
 - [06-gui](sysml/models/06-gui.sysml)
 - [review-photos](sysml/models/review-photos.sysml)
 
-[Варианты использования и отношения include / extend (PlantUML)](sysml/models/guide-usecases.puml)
+- [07-categories](sysml/models/07-categories.sysml)
+- [08-duration-filter](sysml/models/08-duration-filter.sysml)
+
+## Экспорт
+
+Используются Java 25, Graphviz и Jupyter-ядро SysML v2 версии 0.63.1. Распакуйте [релиз ядра](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/releases/tag/2026-09.1) и укажите каталог `sysml`, содержащий `kernel.json`.
+
+```powershell
+python -m pip install jupyter-client Pillow resvg-py
+python lab3/sysml/render.py --kernel-home PATH_TO_KERNEL/sysml --dot PATH_TO_DOT
+```
+
+[Представления](sysml/views.txt) · [Проверка и экспорт](sysml/render.log) · [SVG](sysml/svg/). На рисунке 5.3 два представления вариантов использования расположены друг под другом.

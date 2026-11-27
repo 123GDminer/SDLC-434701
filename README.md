@@ -11,7 +11,7 @@
 [Материалы лабораторной № 3: отчёт, спецификация, рисунки и модели](lab3/README.md)
 
 - [Спецификация требований (20 карточек и план верификации)](srs/electronic-guide-srs.md) — результат лабораторной работы № 3.
-- [Модель SysML v2](srs/models/electronic-guide.sysml) и [диаграмма сценариев](srs/graphics/electronic-guide-use-cases.png) — представление границ системы и макетов интерфейса.
+- [Модель SysML v2](lab3/sysml/models/) и [диаграмма сценариев](srs/graphics/electronic-guide-use-cases.png) — представление границ системы и макетов интерфейса.
 - Макеты первого выпуска: [выбор по времени](srs/graphics/catalog-mockup.png), [карточка прогулки](srs/graphics/route-mockup.png), [публикация отзыва и обмен ссылкой](srs/graphics/review-mockup.png).
 - [Отчёт в PDF](lab3/lab3.pdf) и [редактируемый файл Word](lab3/lab3.docx).
 - `adr/`, `sdd/`, `docs/` — проектная документация и шаблоны исходного учебного репозитория.

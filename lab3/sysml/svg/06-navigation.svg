@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="305px" preserveAspectRatio="none" style="width:505px;height:305px;background:#FFFFFF;" version="1.1" viewBox="0 0 505 305" width="505px" zoomAndPan="magnify"><defs/><g><!--MD5=[fbc87193dbaf4d95561dea2c320d4a47]
+cluster E1--><g id="cluster_E1"><a href="psysml:f87e9fb9-f8b3-4b81-80d9-d5d3bf3a89d6" target="_top" title="psysml:f87e9fb9-f8b3-4b81-80d9-d5d3bf3a89d6" xlink:actuate="onRequest" xlink:href="psysml:f87e9fb9-f8b3-4b81-80d9-d5d3bf3a89d6" xlink:show="new" xlink:title="psysml:f87e9fb9-f8b3-4b81-80d9-d5d3bf3a89d6" xlink:type="simple"><rect fill="#FFFFFF" height="292" id="E1" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="491" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="162.5" y="26.5332">&lt;navigation&gt; Карта экранов</text><line style="stroke:#383838;stroke-width:1.0;" x1="7" x2="498" y1="34.6094" y2="34.6094"/></a></g><g><a href="psysml:c7d7673d-287a-4178-ac7f-f141e9fc83e7" target="_top" title="psysml:c7d7673d-287a-4178-ac7f-f141e9fc83e7" xlink:actuate="onRequest" xlink:href="psysml:c7d7673d-287a-4178-ac7f-f141e9fc83e7" xlink:show="new" xlink:title="psysml:c7d7673d-287a-4178-ac7f-f141e9fc83e7" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E2" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="182" x="70" y="43"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="75.5" y="62.5332">&lt;catalog&gt; Каталог: Screen</text></a></g><g><a href="psysml:53201628-babd-4fe1-8780-2bfb42036df5" target="_top" title="psysml:53201628-babd-4fe1-8780-2bfb42036df5" xlink:actuate="onRequest" xlink:href="psysml:53201628-babd-4fe1-8780-2bfb42036df5" xlink:show="new" xlink:title="psysml:53201628-babd-4fe1-8780-2bfb42036df5" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E3" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="176" x="73" y="93"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="78.5" y="112.5332">&lt;route&gt; Прогулка: Screen</text></a></g><g><a href="psysml:0f1ff284-b312-4299-8884-9212f9038185" target="_top" title="psysml:0f1ff284-b312-4299-8884-9212f9038185" xlink:actuate="onRequest" xlink:href="psysml:0f1ff284-b312-4299-8884-9212f9038185" xlink:show="new" xlink:title="psysml:0f1ff284-b312-4299-8884-9212f9038185" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E4" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="276" x="23" y="143"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="265" x="28.5" y="162.5332">&lt;stop&gt; Достопримечательность: Screen</text></a></g><g><a href="psysml:36bd8ff5-f666-40f1-a80c-fbd9a5d02015" target="_top" title="psysml:36bd8ff5-f666-40f1-a80c-fbd9a5d02015" xlink:actuate="onRequest" xlink:href="psysml:36bd8ff5-f666-40f1-a80c-fbd9a5d02015" xlink:show="new" xlink:title="psysml:36bd8ff5-f666-40f1-a80c-fbd9a5d02015" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E5" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="232" x="23" y="193"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="221" x="28.5" y="212.5332">&lt;editor&gt; Редактор отзыва: Screen</text></a></g><g><a href="psysml:83ddfbe9-4db9-4965-a80b-0aeb45b6add2" target="_top" title="psysml:83ddfbe9-4db9-4965-a80b-0aeb45b6add2" xlink:actuate="onRequest" xlink:href="psysml:83ddfbe9-4db9-4965-a80b-0aeb45b6add2" xlink:show="new" xlink:title="psysml:83ddfbe9-4db9-4965-a80b-0aeb45b6add2" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E6" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="239" x="132.5" y="243"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="228" x="138" y="262.5332">&lt;shared&gt; Обзор по ссылке: Screen</text></a></g><g><a href="psysml:94583e9f-4d8c-4a55-bf1d-3b2f70f840df" target="_top" title="psysml:94583e9f-4d8c-4a55-bf1d-3b2f70f840df" xlink:actuate="onRequest" xlink:href="psysml:94583e9f-4d8c-4a55-bf1d-3b2f70f840df" xlink:show="new" xlink:title="psysml:94583e9f-4d8c-4a55-bf1d-3b2f70f840df" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E7" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="191" x="290.5" y="193"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="296" y="212.5332">&lt;external&gt; Внешняя ссылка</text></a></g><!--MD5=[2720a5a1f2c3fca2055b230370638851]
+link E2 to E3--><g id="link_E2_E3"><a href="psysml:d9487b56-6efa-4c1d-a716-ce3186125fdd" target="_top" title="psysml:d9487b56-6efa-4c1d-a716-ce3186125fdd" xlink:actuate="onRequest" xlink:href="psysml:d9487b56-6efa-4c1d-a716-ce3186125fdd" xlink:show="new" xlink:title="psysml:d9487b56-6efa-4c1d-a716-ce3186125fdd" xlink:type="simple"><path d="M161,83.25 C161,86.38 161,89.62 161,92.75 " fill="none" id="E2-E3" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[af87c684e3b0d8be13c1a698a818ef1e]
+link E3 to E4--><g id="link_E3_E4"><a href="psysml:b9194e87-4a37-407e-8429-8b5884fbeb6d" target="_top" title="psysml:b9194e87-4a37-407e-8429-8b5884fbeb6d" xlink:actuate="onRequest" xlink:href="psysml:b9194e87-4a37-407e-8429-8b5884fbeb6d" xlink:show="new" xlink:title="psysml:b9194e87-4a37-407e-8429-8b5884fbeb6d" xlink:type="simple"><path d="M161,133.25 C161,136.38 161,139.62 161,142.75 " fill="none" id="E3-E4" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[1b7591eae5389033d8d09a9d6721a717]
+link E4 to E5--><g id="link_E4_E5"><a href="psysml:f19280a8-1de2-4dd7-bfeb-095e216361fb" target="_top" title="psysml:f19280a8-1de2-4dd7-bfeb-095e216361fb" xlink:actuate="onRequest" xlink:href="psysml:f19280a8-1de2-4dd7-bfeb-095e216361fb" xlink:show="new" xlink:title="psysml:f19280a8-1de2-4dd7-bfeb-095e216361fb" xlink:type="simple"><path d="M152.18,183.25 C150.74,186.38 149.26,189.62 147.82,192.75 " fill="none" id="E4-E5" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[9120cf2e5df3bff93db8f754bbbc09b4]
+link E5 to E6--><g id="link_E5_E6"><a href="psysml:7cf27004-1dc1-4ed4-8400-28e278afa9de" target="_top" title="psysml:7cf27004-1dc1-4ed4-8400-28e278afa9de" xlink:actuate="onRequest" xlink:href="psysml:7cf27004-1dc1-4ed4-8400-28e278afa9de" xlink:show="new" xlink:title="psysml:7cf27004-1dc1-4ed4-8400-28e278afa9de" xlink:type="simple"><path d="M184.64,233.39 C191.74,236.4 199.08,239.52 206.19,242.54 " fill="none" id="E5-E6" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[fbb449814971db3a0b8220cf225b9e01]
+link E7 to E6--><g id="link_E7_E6"><a href="psysml:fb3a2bbe-914e-4d58-8707-a2c724b6812d" target="_top" title="psysml:fb3a2bbe-914e-4d58-8707-a2c724b6812d" xlink:actuate="onRequest" xlink:href="psysml:fb3a2bbe-914e-4d58-8707-a2c724b6812d" xlink:show="new" xlink:title="psysml:fb3a2bbe-914e-4d58-8707-a2c724b6812d" xlink:type="simple"><path d="M331.88,233.39 C323.46,236.4 314.75,239.52 306.32,242.54 " fill="none" id="E7-E6" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[4529ebfe16cc94b5090453545282c752]
+@startuml
+
+skin sysmlbw
+
+skinparam monochrome true
+
+skinparam wrapWidth 300
+
+hide circle
+
+skinparam ranksep 10
+
+skinparam rectangle {
+
+ backgroundColor<<block>> LightGreen
+
+}
+
+
+
+rec usage "<navigation> Карта экранов" as E1 [[psysml:f87e9fb9-f8b3-4b81-80d9-d5d3bf3a89d6 ]] {
+
+rec usage "<catalog> Каталог: Screen" as E2 [[psysml:c7d7673d-287a-4178-ac7f-f141e9fc83e7 ]] {
+
+}
+
+rec usage "<route> Прогулка: Screen" as E3 [[psysml:53201628-babd-4fe1-8780-2bfb42036df5 ]] {
+
+}
+
+rec usage "<stop> Достопримечательность: Screen" as E4 [[psysml:0f1ff284-b312-4299-8884-9212f9038185 ]] {
+
+}
+
+rec usage "<editor> Редактор отзыва: Screen" as E5 [[psysml:36bd8ff5-f666-40f1-a80c-fbd9a5d02015 ]] {
+
+}
+
+rec usage "<shared> Обзор по ссылке: Screen" as E6 [[psysml:83ddfbe9-4db9-4965-a80b-0aeb45b6add2 ]] {
+
+}
+
+rec usage "<external> Внешняя ссылка" as E7 [[psysml:94583e9f-4d8c-4a55-bf1d-3b2f70f840df ]] {
+
+}
+
+}
+
+E2 -[thickness=3]- E3 [[psysml:d9487b56-6efa-4c1d-a716-ce3186125fdd ]]
+
+E3 -[thickness=3]- E4 [[psysml:b9194e87-4a37-407e-8429-8b5884fbeb6d ]]
+
+E4 -[thickness=3]- E5 [[psysml:f19280a8-1de2-4dd7-bfeb-095e216361fb ]]
+
+E5 -[thickness=3]- E6 [[psysml:7cf27004-1dc1-4ed4-8400-28e278afa9de ]]
+
+E7 -[thickness=3]- E6 [[psysml:fb3a2bbe-914e-4d58-8707-a2c724b6812d ]]
+
+@enduml
+
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

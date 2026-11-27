@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="303px" preserveAspectRatio="none" style="width:661px;height:303px;background:#FFFFFF;" version="1.1" viewBox="0 0 661 303" width="661px" zoomAndPan="magnify"><defs/><g><!--MD5=[fbc87193dbaf4d95561dea2c320d4a47]
+cluster E1--><g id="cluster_E1"><a href="psysml:d891c6de-9f0a-48da-8695-f81a77dbeb3a" target="_top" title="psysml:d891c6de-9f0a-48da-8695-f81a77dbeb3a" xlink:actuate="onRequest" xlink:href="psysml:d891c6de-9f0a-48da-8695-f81a77dbeb3a" xlink:show="new" xlink:title="psysml:d891c6de-9f0a-48da-8695-f81a77dbeb3a" xlink:type="simple"><rect fill="#FFFFFF" height="290" id="E1" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="647" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="273" x="194" y="26.5332">&lt;sharedScreen&gt; Обзор по ссылке: Screen</text><line style="stroke:#383838;stroke-width:1.0;" x1="7" x2="654" y1="34.6094" y2="34.6094"/></a></g><!--MD5=[de5ec2e2e8f62f467e546659f5068c88]
+cluster E5--><g id="cluster_E5"><a href="psysml:9d787aa9-f86b-4bac-b65f-a8cbe529f497" target="_top" title="psysml:9d787aa9-f86b-4bac-b65f-a8cbe529f497" xlink:actuate="onRequest" xlink:href="psysml:9d787aa9-f86b-4bac-b65f-a8cbe529f497" xlink:show="new" xlink:title="psysml:9d787aa9-f86b-4bac-b65f-a8cbe529f497" xlink:type="simple"><rect fill="#FFFFFF" height="108" id="E5" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="373" x="249" y="157"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="277" x="297" y="176.5332">&lt;pictures&gt; Фотографии прогулки: EntryList</text><line style="stroke:#383838;stroke-width:1.0;" x1="249" x2="622" y1="184.6094" y2="184.6094"/></a></g><g><a href="psysml:cf795a53-ede9-4922-8b6b-e9f47a8f4f29" target="_top" title="psysml:cf795a53-ede9-4922-8b6b-e9f47a8f4f29" xlink:actuate="onRequest" xlink:href="psysml:cf795a53-ede9-4922-8b6b-e9f47a8f4f29" xlink:show="new" xlink:title="psysml:cf795a53-ede9-4922-8b6b-e9f47a8f4f29" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E2" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="213" x="223.5" y="43"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="202" x="229" y="62.5332">&lt;link&gt; Адрес публикации: Field</text></a></g><g><a href="psysml:16bb6347-faef-40e3-a9fe-31d038411218" target="_top" title="psysml:16bb6347-faef-40e3-a9fe-31d038411218" xlink:actuate="onRequest" xlink:href="psysml:16bb6347-faef-40e3-a9fe-31d038411218" xlink:show="new" xlink:title="psysml:16bb6347-faef-40e3-a9fe-31d038411218" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E3" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="299" x="180.5" y="93"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="288" x="186" y="112.5332">&lt;reviewedPlace&gt; Связанное место: Readout</text></a></g><g><a href="psysml:c188472f-e634-4c8e-931b-33b8a788db7d" target="_top" title="psysml:c188472f-e634-4c8e-931b-33b8a788db7d" xlink:actuate="onRequest" xlink:href="psysml:c188472f-e634-4c8e-931b-33b8a788db7d" xlink:show="new" xlink:title="psysml:c188472f-e634-4c8e-931b-33b8a788db7d" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E4" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="202" x="23" y="201"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="191" x="28.5" y="220.5332">&lt;text&gt; Текст отзыва: Readout</text></a></g><g><a href="psysml:be424a31-659b-4088-bd90-1ef164abbbb7" target="_top" title="psysml:be424a31-659b-4088-bd90-1ef164abbbb7" xlink:actuate="onRequest" xlink:href="psysml:be424a31-659b-4088-bd90-1ef164abbbb7" xlink:show="new" xlink:title="psysml:be424a31-659b-4088-bd90-1ef164abbbb7" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E6" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="135" x="273.5" y="201"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="279" y="220.5332">Снимок 1: Readout</text></a></g><g><a href="psysml:ac691997-2ea0-46fb-9142-2e6e3a3a0f6f" target="_top" title="psysml:ac691997-2ea0-46fb-9142-2e6e3a3a0f6f" xlink:actuate="onRequest" xlink:href="psysml:ac691997-2ea0-46fb-9142-2e6e3a3a0f6f" xlink:show="new" xlink:title="psysml:ac691997-2ea0-46fb-9142-2e6e3a3a0f6f" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E7" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="135" x="443.5" y="201"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="449" y="220.5332">Снимок 2: Readout</text></a></g><!--MD5=[2720a5a1f2c3fca2055b230370638851]
+link E2 to E3--><g id="link_E2_E3"><a href="psysml:3408317b-80bf-4870-90cd-4083be0cf9d2" target="_top" title="psysml:3408317b-80bf-4870-90cd-4083be0cf9d2" xlink:actuate="onRequest" xlink:href="psysml:3408317b-80bf-4870-90cd-4083be0cf9d2" xlink:show="new" xlink:title="psysml:3408317b-80bf-4870-90cd-4083be0cf9d2" xlink:type="simple"><path d="M330,83.25 C330,86.38 330,89.62 330,92.75 " fill="none" id="E2-E3" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[af87c684e3b0d8be13c1a698a818ef1e]
+link E3 to E4--><g id="link_E3_E4"><a href="psysml:6ac9585b-62a7-4f9e-9398-8741ace23e24" target="_top" title="psysml:6ac9585b-62a7-4f9e-9398-8741ace23e24" xlink:actuate="onRequest" xlink:href="psysml:6ac9585b-62a7-4f9e-9398-8741ace23e24" xlink:show="new" xlink:title="psysml:6ac9585b-62a7-4f9e-9398-8741ace23e24" xlink:type="simple"><path d="M274.16,133.45 C268.3,135.85 262.49,138.38 257,141 C219.91,158.69 179.65,183.45 153.25,200.52 " fill="none" id="E3-E4" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[0188b64bb0ae78505a997a81836e11e9]
+link E3 to E5--><g id="link_E3_E5"><a href="psysml:ab9a5f0f-9562-41cc-960a-97f8a88bbe12" target="_top" title="psysml:ab9a5f0f-9562-41cc-960a-97f8a88bbe12" xlink:actuate="onRequest" xlink:href="psysml:ab9a5f0f-9562-41cc-960a-97f8a88bbe12" xlink:show="new" xlink:title="psysml:ab9a5f0f-9562-41cc-960a-97f8a88bbe12" xlink:type="simple"><path d="M479.81,122.08 C534.46,126.39 585.36,132.57 595,141 C598.2925,143.8775 601.0663,147.2166 603.3986,150.8632 C604.5648,152.6865 605.6206,154.5867 606.5757,156.5446 C606.6354,156.667 606.6947,156.7896 606.7536,156.9124 " fill="none" id="E3-E5" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[b71c53974c475f5bc3d3fa987f71da66]
+@startuml
+
+skin sysmlbw
+
+skinparam monochrome true
+
+skinparam wrapWidth 300
+
+hide circle
+
+skinparam ranksep 10
+
+skinparam rectangle {
+
+ backgroundColor<<block>> LightGreen
+
+}
+
+
+
+rec usage "<sharedScreen> Обзор по ссылке: Screen" as E1 [[psysml:d891c6de-9f0a-48da-8695-f81a77dbeb3a ]] {
+
+rec usage "<link> Адрес публикации: Field" as E2 [[psysml:cf795a53-ede9-4922-8b6b-e9f47a8f4f29 ]] {
+
+}
+
+rec usage "<reviewedPlace> Связанное место: Readout" as E3 [[psysml:16bb6347-faef-40e3-a9fe-31d038411218 ]] {
+
+}
+
+rec usage "<text> Текст отзыва: Readout" as E4 [[psysml:c188472f-e634-4c8e-931b-33b8a788db7d ]] {
+
+}
+
+rec usage "<pictures> Фотографии прогулки: EntryList" as E5 [[psysml:9d787aa9-f86b-4bac-b65f-a8cbe529f497 ]] {
+
+rec usage "Снимок 1: Readout" as E6 [[psysml:be424a31-659b-4088-bd90-1ef164abbbb7 ]] {
+
+}
+
+rec usage "Снимок 2: Readout" as E7 [[psysml:ac691997-2ea0-46fb-9142-2e6e3a3a0f6f ]] {
+
+}
+
+}
+
+}
+
+E2 -[thickness=3]- E3 [[psysml:3408317b-80bf-4870-90cd-4083be0cf9d2 ]]
+
+E3 -[thickness=3]- E4 [[psysml:6ac9585b-62a7-4f9e-9398-8741ace23e24 ]]
+
+E3 -[thickness=3]- E5 [[psysml:ab9a5f0f-9562-41cc-960a-97f8a88bbe12 ]]
+
+@enduml
+
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

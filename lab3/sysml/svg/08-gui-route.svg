@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="253px" preserveAspectRatio="none" style="width:741px;height:253px;background:#FFFFFF;" version="1.1" viewBox="0 0 741 253" width="741px" zoomAndPan="magnify"><defs/><g><!--MD5=[fbc87193dbaf4d95561dea2c320d4a47]
+cluster E1--><g id="cluster_E1"><a href="psysml:319075a1-8b90-45aa-a308-b60b0bcfa8d4" target="_top" title="psysml:319075a1-8b90-45aa-a308-b60b0bcfa8d4" xlink:actuate="onRequest" xlink:href="psysml:319075a1-8b90-45aa-a308-b60b0bcfa8d4" xlink:show="new" xlink:title="psysml:319075a1-8b90-45aa-a308-b60b0bcfa8d4" xlink:type="simple"><rect fill="#FFFFFF" height="240" id="E1" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="727" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="282" x="229.5" y="26.5332">&lt;routeScreen&gt; Карточка маршрута: Screen</text><line style="stroke:#383838;stroke-width:1.0;" x1="7" x2="734" y1="34.6094" y2="34.6094"/></a></g><!--MD5=[de5ec2e2e8f62f467e546659f5068c88]
+cluster E5--><g id="cluster_E5"><a href="psysml:0d347eed-ea79-4c46-9178-14710527cedc" target="_top" title="psysml:0d347eed-ea79-4c46-9178-14710527cedc" xlink:actuate="onRequest" xlink:href="psysml:0d347eed-ea79-4c46-9178-14710527cedc" xlink:show="new" xlink:title="psysml:0d347eed-ea79-4c46-9178-14710527cedc" xlink:type="simple"><rect fill="#FFFFFF" height="108" id="E5" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="572" x="39" y="107"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="231.5" y="126.5332">&lt;stops&gt; Остановки: EntryList</text><line style="stroke:#383838;stroke-width:1.0;" x1="39" x2="611" y1="134.6094" y2="134.6094"/></a></g><g><a href="psysml:14884bea-0bd3-4e6f-a27b-fc4503a6cffd" target="_top" title="psysml:14884bea-0bd3-4e6f-a27b-fc4503a6cffd" xlink:actuate="onRequest" xlink:href="psysml:14884bea-0bd3-4e6f-a27b-fc4503a6cffd" xlink:show="new" xlink:title="psysml:14884bea-0bd3-4e6f-a27b-fc4503a6cffd" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E2" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="232" x="23" y="43"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="221" x="28.5" y="62.5332">&lt;title&gt; Прогулка по Риму: Readout</text></a></g><g><a href="psysml:eaaf6e83-a762-4f10-9332-3c0c389ec8cd" target="_top" title="psysml:eaaf6e83-a762-4f10-9332-3c0c389ec8cd" xlink:actuate="onRequest" xlink:href="psysml:eaaf6e83-a762-4f10-9332-3c0c389ec8cd" xlink:show="new" xlink:title="psysml:eaaf6e83-a762-4f10-9332-3c0c389ec8cd" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E3" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="189" x="289.5" y="43"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="295" y="62.5332">&lt;country&gt; Италия: Readout</text></a></g><g><a href="psysml:92877070-813b-48c1-b154-a478e28e465a" target="_top" title="psysml:92877070-813b-48c1-b154-a478e28e465a" xlink:actuate="onRequest" xlink:href="psysml:92877070-813b-48c1-b154-a478e28e465a" xlink:show="new" xlink:title="psysml:92877070-813b-48c1-b154-a478e28e465a" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E4" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="205" x="513.5" y="43"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="194" x="519" y="62.5332">&lt;duration&gt; 90 минут: Readout</text></a></g><g><a href="psysml:dcf5bbde-88ee-41a2-849f-ea07016a79e1" target="_top" title="psysml:dcf5bbde-88ee-41a2-849f-ea07016a79e1" xlink:actuate="onRequest" xlink:href="psysml:dcf5bbde-88ee-41a2-849f-ea07016a79e1" xlink:show="new" xlink:title="psysml:dcf5bbde-88ee-41a2-849f-ea07016a79e1" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E6" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="131" x="62.5" y="151"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="68" y="170.5332">1 Колизей: Control</text></a></g><g><a href="psysml:ad716404-63ce-433c-ac47-28d5be16615a" target="_top" title="psysml:ad716404-63ce-433c-ac47-28d5be16615a" xlink:actuate="onRequest" xlink:href="psysml:ad716404-63ce-433c-ac47-28d5be16615a" xlink:show="new" xlink:title="psysml:ad716404-63ce-433c-ac47-28d5be16615a" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E7" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="133" x="228.5" y="151"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="234" y="170.5332">2 Пантеон: Control</text></a></g><g><a href="psysml:94528bda-c2ff-4d10-987d-ff000294cd5f" target="_top" title="psysml:94528bda-c2ff-4d10-987d-ff000294cd5f" xlink:actuate="onRequest" xlink:href="psysml:94528bda-c2ff-4d10-987d-ff000294cd5f" xlink:show="new" xlink:title="psysml:94528bda-c2ff-4d10-987d-ff000294cd5f" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E8" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="171" x="396.5" y="151"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="160" x="402" y="170.5332">3 Фонтан Треви: Control</text></a></g><!--MD5=[dcad52bbbca2fe8adc741ce38b45dc12]
+link E2 to E5--><g id="link_E2_E5"><a href="psysml:fabfef64-cde6-474e-b904-8cedcdf0cea9" target="_top" title="psysml:fabfef64-cde6-474e-b904-8cedcdf0cea9" xlink:actuate="onRequest" xlink:href="psysml:fabfef64-cde6-474e-b904-8cedcdf0cea9" xlink:show="new" xlink:title="psysml:fabfef64-cde6-474e-b904-8cedcdf0cea9" xlink:type="simple"><path d="M255.33,81.41 C260.96,82.01 266.54,82.54 272,83 C289.28,84.45 570.52,80.09 584,91 C587.4,93.75 590.2552,96.9923 592.6476,100.5675 C593.8438,102.355 594.9243,104.2258 595.8994,106.1598 C596.0213,106.4016 596.1416,106.6443 596.2602,106.888 " fill="none" id="E2-E5" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[732eac35f1d4fa6dc9360059136f7042]
+@startuml
+
+skin sysmlbw
+
+skinparam monochrome true
+
+skinparam wrapWidth 300
+
+hide circle
+
+skinparam ranksep 10
+
+skinparam rectangle {
+
+ backgroundColor<<block>> LightGreen
+
+}
+
+
+
+rec usage "<routeScreen> Карточка маршрута: Screen" as E1 [[psysml:319075a1-8b90-45aa-a308-b60b0bcfa8d4 ]] {
+
+rec usage "<title> Прогулка по Риму: Readout" as E2 [[psysml:14884bea-0bd3-4e6f-a27b-fc4503a6cffd ]] {
+
+}
+
+rec usage "<country> Италия: Readout" as E3 [[psysml:eaaf6e83-a762-4f10-9332-3c0c389ec8cd ]] {
+
+}
+
+rec usage "<duration> 90 минут: Readout" as E4 [[psysml:92877070-813b-48c1-b154-a478e28e465a ]] {
+
+}
+
+rec usage "<stops> Остановки: EntryList" as E5 [[psysml:0d347eed-ea79-4c46-9178-14710527cedc ]] {
+
+rec usage "1 Колизей: Control" as E6 [[psysml:dcf5bbde-88ee-41a2-849f-ea07016a79e1 ]] {
+
+}
+
+rec usage "2 Пантеон: Control" as E7 [[psysml:ad716404-63ce-433c-ac47-28d5be16615a ]] {
+
+}
+
+rec usage "3 Фонтан Треви: Control" as E8 [[psysml:94528bda-c2ff-4d10-987d-ff000294cd5f ]] {
+
+}
+
+}
+
+}
+
+E2 -[thickness=3]- E5 [[psysml:fabfef64-cde6-474e-b904-8cedcdf0cea9 ]]
+
+@enduml
+
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

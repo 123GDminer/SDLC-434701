@@ -1,10 +1,20 @@
-package GuideModel3 {
-state def CatalogLifecycle {
- entry; then loading;
- state loading; state ready; state empty; state failed;
- transition first loading accept RecordsFound then ready;
- transition first loading accept NoRecords then empty;
- transition first loading accept ReadError then failed;
-}
-attribute def RecordsFound; attribute def NoRecords; attribute def ReadError;
+// Электронный путеводитель. Исходы чтения базы каталога.
+package CatalogStates {
+    item def 'Записи прочитаны';
+    item def 'Записей нет';
+    item def 'Ошибка чтения';
+
+    state def <Lifecycle> 'Загрузка каталога' {
+        entry; then loading;
+        state <loading> 'Чтение';
+        state <available> 'Списки доступны';
+        state <empty> 'Нет записей';
+        state <failed> 'Ошибка загрузки';
+        transition first loading
+            accept : 'Записи прочитаны' then available;
+        transition first loading
+            accept : 'Записей нет' then empty;
+        transition first loading
+            accept : 'Ошибка чтения' then failed;
+    }
 }

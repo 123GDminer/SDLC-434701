@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="402px" preserveAspectRatio="none" style="width:685px;height:402px;background:#FFFFFF;" version="1.1" viewBox="0 0 685 402" width="685px" zoomAndPan="magnify"><defs/><g><!--MD5=[43c9051892ef23e1a46a86907403d788]
+class E1--><a href="psysml:cc9971bf-ea52-4379-913a-0c8568788c8b" target="_top" title="psysml:cc9971bf-ea52-4379-913a-0c8568788c8b" xlink:actuate="onRequest" xlink:href="psysml:cc9971bf-ea52-4379-913a-0c8568788c8b" xlink:show="new" xlink:title="psysml:cc9971bf-ea52-4379-913a-0c8568788c8b" xlink:type="simple"><g id="elem_E1"><rect fill="#FFFFFF" height="167.4031" id="E1" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="303" x="135" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="269" y="24.457">«part»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="198.5" y="41.627">&lt;dataView&gt; Связи данных</text><line style="stroke:#181818;stroke-width:0.5;" x1="136" x2="437" y1="49.7031" y2="49.7031"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="233" x="141" y="79.2801">вложения connect Отзыв to Снимок</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="244" x="141" y="96.8895">маршруты страны connect Страна to</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="141" y="114.4988">Маршрут</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="260" x="141" y="132.1082">места страны connect Страна to Место</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="254" x="141" y="149.7176">отзыв о месте connect Отзыв to Место</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="291" x="141" y="167.327">отзыв о прогулке connect Отзыв to Маршрут</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="76" x="248.5" y="62.9316">connections</text></g></a><!--MD5=[b4997ac47864f28c2f74865a473b2911]
+class E2--><a href="psysml:230c943a-220d-4eed-b952-b2f1f907f9fd" target="_top" title="psysml:230c943a-220d-4eed-b952-b2f1f907f9fd" xlink:actuate="onRequest" xlink:href="psysml:230c943a-220d-4eed-b952-b2f1f907f9fd" xlink:show="new" xlink:title="psysml:230c943a-220d-4eed-b952-b2f1f907f9fd" xlink:type="simple"><g id="elem_E2"><rect fill="#FFFFFF" height="50.7031" id="E2" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="188" x="45.5" y="234.4"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="122" y="251.857">«part»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="48.5" y="269.027">&lt;country&gt; Страна: Country</text><line style="stroke:#181818;stroke-width:0.5;" x1="46.5" x2="232.5" y1="277.1031" y2="277.1031"/></g></a><!--MD5=[09b614a08d8cba4a07c9adeb5e0fee81]
+class E3--><a href="psysml:557a4eaf-a967-4dec-abf7-e8b12d39528f" target="_top" title="psysml:557a4eaf-a967-4dec-abf7-e8b12d39528f" xlink:actuate="onRequest" xlink:href="psysml:557a4eaf-a967-4dec-abf7-e8b12d39528f" xlink:show="new" xlink:title="psysml:557a4eaf-a967-4dec-abf7-e8b12d39528f" xlink:type="simple"><g id="elem_E3"><rect fill="#FFFFFF" height="50.7031" id="E3" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="161" x="7" y="345.11"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="70" y="362.567">«part»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="10" y="379.737">&lt;places&gt; Место: Site[*]</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="167" y1="387.8131" y2="387.8131"/></g></a><!--MD5=[ebbe1d658d1005bcc118a6aa81145e00]
+class E4--><a href="psysml:ad5aa8ca-bafa-4c8d-80dd-cf5e831ee69d" target="_top" title="psysml:ad5aa8ca-bafa-4c8d-80dd-cf5e831ee69d" xlink:actuate="onRequest" xlink:href="psysml:ad5aa8ca-bafa-4c8d-80dd-cf5e831ee69d" xlink:show="new" xlink:title="psysml:ad5aa8ca-bafa-4c8d-80dd-cf5e831ee69d" xlink:type="simple"><g id="elem_E4"><rect fill="#FFFFFF" height="50.7031" id="E4" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="193" x="203" y="345.11"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="282" y="362.567">«part»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="206" y="379.737">&lt;routes&gt; Маршрут: Route[*]</text><line style="stroke:#181818;stroke-width:0.5;" x1="204" x2="395" y1="387.8131" y2="387.8131"/></g></a><!--MD5=[270fce915f116d4de14055a7c1d9a0f3]
+class E5--><a href="psysml:69d4c6c6-9fed-4ef7-8694-bea8ba425040" target="_top" title="psysml:69d4c6c6-9fed-4ef7-8694-bea8ba425040" xlink:actuate="onRequest" xlink:href="psysml:69d4c6c6-9fed-4ef7-8694-bea8ba425040" xlink:show="new" xlink:title="psysml:69d4c6c6-9fed-4ef7-8694-bea8ba425040" xlink:type="simple"><g id="elem_E5"><rect fill="#FFFFFF" height="50.7031" id="E5" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="188" x="339.5" y="234.4"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="416" y="251.857">«part»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="342.5" y="269.027">&lt;reviews&gt; Отзыв: Review[*]</text><line style="stroke:#181818;stroke-width:0.5;" x1="340.5" x2="526.5" y1="277.1031" y2="277.1031"/></g></a><!--MD5=[60a26617385b1d2d0262a64233df1f8d]
+class E6--><a href="psysml:f6a9e6f0-d910-4c42-b741-501a39310889" target="_top" title="psysml:f6a9e6f0-d910-4c42-b741-501a39310889" xlink:actuate="onRequest" xlink:href="psysml:f6a9e6f0-d910-4c42-b741-501a39310889" xlink:show="new" xlink:title="psysml:f6a9e6f0-d910-4c42-b741-501a39310889" xlink:type="simple"><g id="elem_E6"><rect fill="#FFFFFF" height="50.7031" id="E6" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="222" x="456.5" y="345.11"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="550" y="362.567">«part»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="208" x="459.5" y="379.737">&lt;photos&gt; Снимок: Photograph[*]</text><line style="stroke:#181818;stroke-width:0.5;" x1="457.5" x2="677.5" y1="387.8131" y2="387.8131"/></g></a><!--MD5=[a523cb2a0b79ecf9065ad8783f96c320]
+reverse link E1 to E2--><g id="link_E1_E2"><a href="psysml:52625494-1ba6-433e-98aa-76a5c1dc6d2e" target="_top" title="psysml:52625494-1ba6-433e-98aa-76a5c1dc6d2e" xlink:actuate="onRequest" xlink:href="psysml:52625494-1ba6-433e-98aa-76a5c1dc6d2e" xlink:show="new" xlink:title="psysml:52625494-1ba6-433e-98aa-76a5c1dc6d2e" xlink:type="simple"><path d="M203.87,185.61 C188.15,203.47 172.99,220.69 161.34,233.93 " fill="none" id="E1-backto-E2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="212.43,175.88,205.4634,177.742,204.5028,184.8888,211.4693,183.0268,212.43,175.88" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[5d7b3810b1dd9b5164bea1151b29b665]
+reverse link E1 to E3--><g id="link_E1_E3"><a href="psysml:a55744a8-69a1-4acb-b56a-d9dabf56798a" target="_top" title="psysml:a55744a8-69a1-4acb-b56a-d9dabf56798a" xlink:actuate="onRequest" xlink:href="psysml:a55744a8-69a1-4acb-b56a-d9dabf56798a" xlink:show="new" xlink:title="psysml:a55744a8-69a1-4acb-b56a-d9dabf56798a" xlink:type="simple"><path d="M121.98,148.91 C84.87,169.87 50.11,197.76 28.5,234.4 C6.93,270.99 38.14,316.92 62.75,344.68 " fill="none" id="E1-backto-E3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="133.31,142.79,126.1293,142.1282,122.7567,148.502,129.9373,149.1638,133.31,142.79" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[f2c5c03aa1e8c0ba21c10a05e6444b8e]
+reverse link E1 to E4--><g id="link_E1_E4"><a href="psysml:3ef9969f-e387-4faf-906c-2aec6e55b0d9" target="_top" title="psysml:3ef9969f-e387-4faf-906c-2aec6e55b0d9" xlink:actuate="onRequest" xlink:href="psysml:3ef9969f-e387-4faf-906c-2aec6e55b0d9" xlink:show="new" xlink:title="psysml:3ef9969f-e387-4faf-906c-2aec6e55b0d9" xlink:type="simple"><path d="M291.05,188.92 C293.65,244.45 296.71,309.79 298.34,344.62 " fill="none" id="E1-backto-E4" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="290.45,176.17,286.7312,182.3482,291.0039,188.1572,294.7227,181.979,290.45,176.17" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[33238bef88d6431a141d8bc8fb12bca0]
+reverse link E1 to E5--><g id="link_E1_E5"><a href="psysml:75acef45-fee7-4ee7-b837-edf50c461c5c" target="_top" title="psysml:75acef45-fee7-4ee7-b837-edf50c461c5c" xlink:actuate="onRequest" xlink:href="psysml:75acef45-fee7-4ee7-b837-edf50c461c5c" xlink:show="new" xlink:title="psysml:75acef45-fee7-4ee7-b837-edf50c461c5c" xlink:type="simple"><path d="M369.13,185.61 C384.85,203.47 400.01,220.69 411.66,233.93 " fill="none" id="E1-backto-E5" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="360.57,175.88,361.5307,183.0268,368.4972,184.8888,367.5366,177.742,360.57,175.88" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[aca2ef284c2b1b90e17e73bf3f292c07]
+reverse link E1 to E6--><g id="link_E1_E6"><a href="psysml:e451e4a8-4c03-4e0e-979f-221121958535" target="_top" title="psysml:e451e4a8-4c03-4e0e-979f-221121958535" xlink:actuate="onRequest" xlink:href="psysml:e451e4a8-4c03-4e0e-979f-221121958535" xlink:show="new" xlink:title="psysml:e451e4a8-4c03-4e0e-979f-221121958535" xlink:type="simple"><path d="M450.98,153.91 C486.67,174.51 520.78,200.98 544.5,234.4 C567.76,267.19 570.33,315.54 569.4,344.62 " fill="none" id="E1-backto-E6" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="439.63,147.6,442.9337,154.0098,450.1211,153.4255,446.8174,147.0157,439.63,147.6" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[2720a5a1f2c3fca2055b230370638851]
+link E2 to E3--><g id="link_E2_E3"><a href="psysml:566e00bf-0afc-4644-a88c-7cf903e2abdc" target="_top" title="psysml:566e00bf-0afc-4644-a88c-7cf903e2abdc" xlink:actuate="onRequest" xlink:href="psysml:566e00bf-0afc-4644-a88c-7cf903e2abdc" xlink:show="new" xlink:title="psysml:566e00bf-0afc-4644-a88c-7cf903e2abdc" xlink:type="simple"><path d="M127.7,285.42 C119.19,303.21 107.75,327.12 99.25,344.89 " fill="none" id="E2-E3" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[4d03bb2d0377dc85ccfab60ff574652b]
+link E2 to E4--><g id="link_E2_E4"><a href="psysml:a0ad0082-071d-4f39-a1b0-f65d58616a71" target="_top" title="psysml:a0ad0082-071d-4f39-a1b0-f65d58616a71" xlink:actuate="onRequest" xlink:href="psysml:a0ad0082-071d-4f39-a1b0-f65d58616a71" xlink:show="new" xlink:title="psysml:a0ad0082-071d-4f39-a1b0-f65d58616a71" xlink:type="simple"><path d="M175.81,285.42 C201.9,303.15 236.94,326.95 263.06,344.7 " fill="none" id="E2-E4" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[e9be52314489bd878ff4c7144b63c9e1]
+link E5 to E3--><g id="link_E5_E3"><a href="psysml:20b27efe-95aa-45fd-932f-2d6244dcffb9" target="_top" title="psysml:20b27efe-95aa-45fd-932f-2d6244dcffb9" xlink:actuate="onRequest" xlink:href="psysml:20b27efe-95aa-45fd-932f-2d6244dcffb9" xlink:show="new" xlink:title="psysml:20b27efe-95aa-45fd-932f-2d6244dcffb9" xlink:type="simple"><path d="M354.55,285.56 C298.21,303.26 222.74,326.97 166.41,344.67 " fill="none" id="E5-E3" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[1c62de2aa5b76f0fb657ff8443a1a700]
+link E5 to E4--><g id="link_E5_E4"><a href="psysml:97895916-8e0b-4c08-8511-7760ba2411af" target="_top" title="psysml:97895916-8e0b-4c08-8511-7760ba2411af" xlink:actuate="onRequest" xlink:href="psysml:97895916-8e0b-4c08-8511-7760ba2411af" xlink:show="new" xlink:title="psysml:97895916-8e0b-4c08-8511-7760ba2411af" xlink:type="simple"><path d="M403.09,285.42 C381.16,303.21 351.69,327.12 329.79,344.89 " fill="none" id="E5-E4" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[9120cf2e5df3bff93db8f754bbbc09b4]
+link E5 to E6--><g id="link_E5_E6"><a href="psysml:93f95ccc-9154-4888-8fae-c98fd96d3ed2" target="_top" title="psysml:93f95ccc-9154-4888-8fae-c98fd96d3ed2" xlink:actuate="onRequest" xlink:href="psysml:93f95ccc-9154-4888-8fae-c98fd96d3ed2" xlink:show="new" xlink:title="psysml:93f95ccc-9154-4888-8fae-c98fd96d3ed2" xlink:type="simple"><path d="M463.91,285.42 C485.84,303.21 515.31,327.12 537.21,344.89 " fill="none" id="E5-E6" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[e86603ada72f4cb845237434eb29427f]
+@startuml
+
+skin sysmlbw
+
+skinparam monochrome true
+
+skinparam wrapWidth 300
+
+hide circle
+
+
+
+comp usage "~<dataView> Связи данных  " as E1  <<(T,blue) part>> [[psysml:cc9971bf-ea52-4379-913a-0c8568788c8b ]] {
+
+##//connections//##
+
+вложения connect Отзыв to Снимок
+
+маршруты страны connect Страна to Маршрут
+
+места страны connect Страна to Место
+
+отзыв о месте connect Отзыв to Место
+
+отзыв о прогулке connect Отзыв to Маршрут
+
+}
+
+comp usage "~<country> Страна: Country  " as E2  <<(T,blue) part>> [[psysml:230c943a-220d-4eed-b952-b2f1f907f9fd ]] {
+
+}
+
+comp usage "~<places> Место: Site[*]  " as E3  <<(T,blue) part>> [[psysml:557a4eaf-a967-4dec-abf7-e8b12d39528f ]] {
+
+}
+
+comp usage "~<routes> Маршрут: Route[*]  " as E4  <<(T,blue) part>> [[psysml:ad5aa8ca-bafa-4c8d-80dd-cf5e831ee69d ]] {
+
+}
+
+comp usage "~<reviews> Отзыв: Review[*]  " as E5  <<(T,blue) part>> [[psysml:69d4c6c6-9fed-4ef7-8694-bea8ba425040 ]] {
+
+}
+
+comp usage "~<photos> Снимок: Photograph[*]  " as E6  <<(T,blue) part>> [[psysml:f6a9e6f0-d910-4c42-b741-501a39310889 ]] {
+
+}
+
+E1 *- - E2 [[psysml:52625494-1ba6-433e-98aa-76a5c1dc6d2e ]]
+
+E1 *- - E3 [[psysml:a55744a8-69a1-4acb-b56a-d9dabf56798a ]]
+
+E1 *- - E4 [[psysml:3ef9969f-e387-4faf-906c-2aec6e55b0d9 ]]
+
+E1 *- - E5 [[psysml:75acef45-fee7-4ee7-b837-edf50c461c5c ]]
+
+E1 *- - E6 [[psysml:e451e4a8-4c03-4e0e-979f-221121958535 ]]
+
+E2 -[thickness=3]- E3 [[psysml:566e00bf-0afc-4644-a88c-7cf903e2abdc ]]
+
+E2 -[thickness=3]- E4 [[psysml:a0ad0082-071d-4f39-a1b0-f65d58616a71 ]]
+
+E5 -[thickness=3]- E3 [[psysml:20b27efe-95aa-45fd-932f-2d6244dcffb9 ]]
+
+E5 -[thickness=3]- E4 [[psysml:97895916-8e0b-4c08-8511-7760ba2411af ]]
+
+E5 -[thickness=3]- E6 [[psysml:93f95ccc-9154-4888-8fae-c98fd96d3ed2 ]]
+
+@enduml
+
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

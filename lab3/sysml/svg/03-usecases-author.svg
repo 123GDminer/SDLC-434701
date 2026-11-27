@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="233px" preserveAspectRatio="none" style="width:798px;height:233px;background:#FFFFFF;" version="1.1" viewBox="0 0 798 233" width="798px" zoomAndPan="magnify"><defs/><g><!--MD5=[fbc87193dbaf4d95561dea2c320d4a47]
+cluster E1--><g id="cluster_E1"><a href="psysml:14e65f5c-3105-4320-8e47-b47ceee81155" target="_top" title="psysml:14e65f5c-3105-4320-8e47-b47ceee81155" xlink:actuate="onRequest" xlink:href="psysml:14e65f5c-3105-4320-8e47-b47ceee81155" xlink:show="new" xlink:title="psysml:14e65f5c-3105-4320-8e47-b47ceee81155" xlink:type="simple"><polygon fill="none" points="16,6,256,6,263,29.6094,781,29.6094,781,226.3,16,226.3,16,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="263" y1="29.6094" y2="29.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="234" x="20" y="22.5332">&lt;AuthorCases&gt; Сценарии автора</text></a></g><!--MD5=[09b614a08d8cba4a07c9adeb5e0fee81]
+class E3--><a href="psysml:58bd0123-4af9-45fb-99d8-36a4a93f8e0c" target="_top" title="psysml:58bd0123-4af9-45fb-99d8-36a4a93f8e0c" xlink:actuate="onRequest" xlink:href="psysml:58bd0123-4af9-45fb-99d8-36a4a93f8e0c" xlink:show="new" xlink:title="psysml:58bd0123-4af9-45fb-99d8-36a4a93f8e0c" xlink:type="simple"><g id="elem_E3"><rect fill="#FFFFFF" height="50.7031" id="E3" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="56" x="32" y="154.65"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="54" x="33" y="172.107">«subject»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="42.5" y="189.277">guide</text><line style="stroke:#181818;stroke-width:0.5;" x1="33" x2="87" y1="197.3531" y2="197.3531"/></g></a><!--MD5=[ebbe1d658d1005bcc118a6aa81145e00]
+class E4--><a href="psysml:862295e6-2952-45f7-ad11-c6e0a8081bbb" target="_top" title="psysml:862295e6-2952-45f7-ad11-c6e0a8081bbb" xlink:actuate="onRequest" xlink:href="psysml:862295e6-2952-45f7-ad11-c6e0a8081bbb" xlink:show="new" xlink:title="psysml:862295e6-2952-45f7-ad11-c6e0a8081bbb" xlink:type="simple"><g id="elem_E4"><rect fill="#FFFFFF" height="60.5938" id="E4" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="129" x="123.5" y="149.71"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="170.5" y="167.167">«part»</text><path d="M137.5,169.8038 C134.75,169.8038 132.5,172.6038 132.5,176.0538 C132.5,179.5038 134.75,182.3038 137.5,182.3038 C140.25,182.3038 142.5,179.5038 142.5,176.0538 C142.5,172.6038 140.25,169.8038 137.5,169.8038 M132.275,182.3038 C129.625,182.4288 127.5,184.6038 127.5,187.3038 L127.5,189.8038 L147.5,189.8038 L147.5,187.3038 C147.5,184.6038 145.4,182.4288 142.725,182.3038 C141.375,183.8288 139.525,184.8038 137.5,184.8038 C135.475,184.8038 133.625,183.8288 132.275,182.3038 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="152.5" y="194.2276">Автор: Author</text><line style="stroke:#181818;stroke-width:0.5;" x1="124.5" x2="251.5" y1="202.3038" y2="202.3038"/></g></a><!--MD5=[60a26617385b1d2d0262a64233df1f8d]
+class E6--><a href="psysml:0681dcef-2d24-476a-8466-282f727edb61" target="_top" title="psysml:0681dcef-2d24-476a-8466-282f727edb61" xlink:actuate="onRequest" xlink:href="psysml:0681dcef-2d24-476a-8466-282f727edb61" xlink:show="new" xlink:title="psysml:0681dcef-2d24-476a-8466-282f727edb61" xlink:type="simple"><g id="elem_E6"><rect fill="#FFFFFF" height="50.7031" id="E6" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="56" x="288" y="154.65"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="54" x="289" y="172.107">«subject»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="298.5" y="189.277">guide</text><line style="stroke:#181818;stroke-width:0.5;" x1="289" x2="343" y1="197.3531" y2="197.3531"/></g></a><!--MD5=[2156ba9850f5573cc1fc38a6a4b2f02b]
+class E7--><a href="psysml:e53e018a-5d10-43ba-9452-790c049e82b3" target="_top" title="psysml:e53e018a-5d10-43ba-9452-790c049e82b3" xlink:actuate="onRequest" xlink:href="psysml:e53e018a-5d10-43ba-9452-790c049e82b3" xlink:show="new" xlink:title="psysml:e53e018a-5d10-43ba-9452-790c049e82b3" xlink:type="simple"><g id="elem_E7"><rect fill="#FFFFFF" height="60.5938" id="E7" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="129" x="379.5" y="149.71"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="426.5" y="167.167">«part»</text><path d="M393.5,169.8038 C390.75,169.8038 388.5,172.6038 388.5,176.0538 C388.5,179.5038 390.75,182.3038 393.5,182.3038 C396.25,182.3038 398.5,179.5038 398.5,176.0538 C398.5,172.6038 396.25,169.8038 393.5,169.8038 M388.275,182.3038 C385.625,182.4288 383.5,184.6038 383.5,187.3038 L383.5,189.8038 L403.5,189.8038 L403.5,187.3038 C403.5,184.6038 401.4,182.4288 398.725,182.3038 C397.375,183.8288 395.525,184.8038 393.5,184.8038 C391.475,184.8038 389.625,183.8288 388.275,182.3038 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="408.5" y="194.2276">Автор: Author</text><line style="stroke:#181818;stroke-width:0.5;" x1="380.5" x2="507.5" y1="202.3038" y2="202.3038"/></g></a><!--MD5=[fd4143e9d270a159db93a4ea2a975926]
+class E9--><a href="psysml:e92543c2-0729-41aa-bde4-56607b8bdddb" target="_top" title="psysml:e92543c2-0729-41aa-bde4-56607b8bdddb" xlink:actuate="onRequest" xlink:href="psysml:e92543c2-0729-41aa-bde4-56607b8bdddb" xlink:show="new" xlink:title="psysml:e92543c2-0729-41aa-bde4-56607b8bdddb" xlink:type="simple"><g id="elem_E9"><rect fill="#FFFFFF" height="50.7031" id="E9" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="56" x="544" y="154.65"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="54" x="545" y="172.107">«subject»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="554.5" y="189.277">guide</text><line style="stroke:#181818;stroke-width:0.5;" x1="545" x2="599" y1="197.3531" y2="197.3531"/></g></a><!--MD5=[96f4274e9e20536e775497830990834d]
+class E10--><a href="psysml:9d44ea01-78c2-4172-9129-7163a029cfca" target="_top" title="psysml:9d44ea01-78c2-4172-9129-7163a029cfca" xlink:actuate="onRequest" xlink:href="psysml:9d44ea01-78c2-4172-9129-7163a029cfca" xlink:show="new" xlink:title="psysml:9d44ea01-78c2-4172-9129-7163a029cfca" xlink:type="simple"><g id="elem_E10"><rect fill="#FFFFFF" height="60.5938" id="E10" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="129" x="635.5" y="149.71"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="682.5" y="167.167">«part»</text><path d="M649.5,169.8038 C646.75,169.8038 644.5,172.6038 644.5,176.0538 C644.5,179.5038 646.75,182.3038 649.5,182.3038 C652.25,182.3038 654.5,179.5038 654.5,176.0538 C654.5,172.6038 652.25,169.8038 649.5,169.8038 M644.275,182.3038 C641.625,182.4288 639.5,184.6038 639.5,187.3038 L639.5,189.8038 L659.5,189.8038 L659.5,187.3038 C659.5,184.6038 657.4,182.4288 654.725,182.3038 C653.375,183.8288 651.525,184.8038 649.5,184.8038 C647.475,184.8038 645.625,183.8288 644.275,182.3038 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="664.5" y="194.2276">Автор: Author</text><line style="stroke:#181818;stroke-width:0.5;" x1="636.5" x2="763.5" y1="202.3038" y2="202.3038"/></g></a><g><a href="psysml:5f06b8c9-8a68-4930-8f9d-da51a535645e" target="_top" title="psysml:5f06b8c9-8a68-4930-8f9d-da51a535645e" xlink:actuate="onRequest" xlink:href="psysml:5f06b8c9-8a68-4930-8f9d-da51a535645e" xlink:show="new" xlink:title="psysml:5f06b8c9-8a68-4930-8f9d-da51a535645e" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E2" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="155" x="71.5" y="42"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="63" x="117.5" y="59.457">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="77" y="76.627">Опубликовать отзыв</text></a></g><g><a href="psysml:e628a834-0f8e-410f-a3a8-cc9d50c823f4" target="_top" title="psysml:e628a834-0f8e-410f-a3a8-cc9d50c823f4" xlink:actuate="onRequest" xlink:href="psysml:e628a834-0f8e-410f-a3a8-cc9d50c823f4" xlink:show="new" xlink:title="psysml:e628a834-0f8e-410f-a3a8-cc9d50c823f4" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E5" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="183" x="262.5" y="42"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="63" x="322.5" y="59.457">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="268" y="76.627">Прикрепить фотографии</text></a></g><g><a href="psysml:34a0c9af-92a5-45da-aea3-5cb516a4a4f6" target="_top" title="psysml:34a0c9af-92a5-45da-aea3-5cb516a4a4f6" xlink:actuate="onRequest" xlink:href="psysml:34a0c9af-92a5-45da-aea3-5cb516a4a4f6" xlink:show="new" xlink:title="psysml:34a0c9af-92a5-45da-aea3-5cb516a4a4f6" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E8" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="132" x="569" y="42"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="63" x="603.5" y="59.457">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="574.5" y="76.627">Передать ссылку</text></a></g><!--MD5=[209b3feb70ccb6233bfe1053d122c12c]
+reverse link E2 to E3--><g id="link_E2_E3"><a href="psysml:b25cc6ab-169f-4ad1-92dd-ba7701f3d166" target="_top" title="psysml:b25cc6ab-169f-4ad1-92dd-ba7701f3d166" xlink:actuate="onRequest" xlink:href="psysml:b25cc6ab-169f-4ad1-92dd-ba7701f3d166" xlink:show="new" xlink:title="psysml:b25cc6ab-169f-4ad1-92dd-ba7701f3d166" xlink:type="simple"><path d="M121.64,101.33 C108.07,118.43 91.99,138.7 79.65,154.24 " fill="none" id="E2-backto-E3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="129.62,91.28,122.7567,93.4924,122.1591,100.6787,129.0224,98.4663,129.62,91.28" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[4d03bb2d0377dc85ccfab60ff574652b]
+link E2 to E4--><g id="link_E2_E4"><a href="psysml:db3fe5e4-ea2a-49f4-b61e-83c921a221cf" target="_top" title="psysml:db3fe5e4-ea2a-49f4-b61e-83c921a221cf" xlink:actuate="onRequest" xlink:href="psysml:db3fe5e4-ea2a-49f4-b61e-83c921a221cf" xlink:show="new" xlink:title="psysml:db3fe5e4-ea2a-49f4-b61e-83c921a221cf" xlink:type="simple"><path d="M157.08,90.09 C163.06,107.29 171.25,130.84 177.7,149.39 " fill="none" id="E2-E4" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[85d356282659285ab4b2cfe2f634dd2b]
+reverse link E5 to E6--><g id="link_E5_E6"><a href="psysml:99a9c8c4-e8f2-4b60-a5bf-c01dadebef30" target="_top" title="psysml:99a9c8c4-e8f2-4b60-a5bf-c01dadebef30" xlink:actuate="onRequest" xlink:href="psysml:99a9c8c4-e8f2-4b60-a5bf-c01dadebef30" xlink:show="new" xlink:title="psysml:99a9c8c4-e8f2-4b60-a5bf-c01dadebef30" xlink:type="simple"><path d="M341.48,103.82 C335.87,120.37 329.4,139.44 324.39,154.24 " fill="none" id="E5-backto-E6" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="345.64,91.53,339.9264,95.9294,341.7899,102.8956,347.5035,98.4962,345.64,91.53" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[3a9b96bfbf6b6ad89c494e81751bda47]
+link E5 to E7--><g id="link_E5_E7"><a href="psysml:c45f0f1f-6f6a-48cf-912a-1e2a28a4f7de" target="_top" title="psysml:c45f0f1f-6f6a-48cf-912a-1e2a28a4f7de" xlink:actuate="onRequest" xlink:href="psysml:c45f0f1f-6f6a-48cf-912a-1e2a28a4f7de" xlink:show="new" xlink:title="psysml:c45f0f1f-6f6a-48cf-912a-1e2a28a4f7de" xlink:type="simple"><path d="M372.65,90.09 C386.45,107.29 405.35,130.84 420.23,149.39 " fill="none" id="E5-E7" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[22f5b4bae7e060dce8a1c8021efdb95b]
+reverse link E8 to E9--><g id="link_E8_E9"><a href="psysml:1575425f-7246-4fc6-ba7e-d34bbad89d74" target="_top" title="psysml:1575425f-7246-4fc6-ba7e-d34bbad89d74" xlink:actuate="onRequest" xlink:href="psysml:1575425f-7246-4fc6-ba7e-d34bbad89d74" xlink:show="new" xlink:title="psysml:1575425f-7246-4fc6-ba7e-d34bbad89d74" xlink:type="simple"><path d="M615.08,102.32 C605.59,119.21 594.47,139 585.91,154.24 " fill="none" id="E8-backto-E9" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="621.21,91.41,614.7855,94.685,615.3375,101.8749,621.7621,98.5999,621.21,91.41" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[de116e21047ded6283635ff91c92fb70]
+link E8 to E10--><g id="link_E8_E10"><a href="psysml:a5e69718-cf0a-44d2-9ac3-b756f1dae7f4" target="_top" title="psysml:a5e69718-cf0a-44d2-9ac3-b756f1dae7f4" xlink:actuate="onRequest" xlink:href="psysml:a5e69718-cf0a-44d2-9ac3-b756f1dae7f4" xlink:show="new" xlink:title="psysml:a5e69718-cf0a-44d2-9ac3-b756f1dae7f4" xlink:type="simple"><path d="M648.47,90.09 C658.43,107.29 672.09,130.84 682.83,149.39 " fill="none" id="E8-E10" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[0a45dbe44db325f06ae09a6391babba8]
+@startuml
+
+skin sysmlbw
+
+skinparam monochrome true
+
+skinparam wrapWidth 300
+
+hide circle
+
+
+
+package "~<AuthorCases> Сценарии автора" as E1  [[psysml:14e65f5c-3105-4320-8e47-b47ceee81155 ]]  {
+
+rec usage "Опубликовать отзыв  " as E2  <<(T,blue) use case>> [[psysml:5f06b8c9-8a68-4930-8f9d-da51a535645e ]] {
+
+}
+
+comp usage "guide" as E3 <<subject>>[[psysml:58bd0123-4af9-45fb-99d8-36a4a93f8e0c ]] {
+
+}
+
+comp usage "<size:30><&person></size> Автор: Author  " as E4  <<(T,blue) part>> [[psysml:862295e6-2952-45f7-ad11-c6e0a8081bbb ]] {
+
+}
+
+rec usage "Прикрепить фотографии  " as E5  <<(T,blue) use case>> [[psysml:e628a834-0f8e-410f-a3a8-cc9d50c823f4 ]] {
+
+}
+
+comp usage "guide" as E6 <<subject>>[[psysml:0681dcef-2d24-476a-8466-282f727edb61 ]] {
+
+}
+
+comp usage "<size:30><&person></size> Автор: Author  " as E7  <<(T,blue) part>> [[psysml:e53e018a-5d10-43ba-9452-790c049e82b3 ]] {
+
+}
+
+rec usage "Передать ссылку  " as E8  <<(T,blue) use case>> [[psysml:34a0c9af-92a5-45da-aea3-5cb516a4a4f6 ]] {
+
+}
+
+comp usage "guide" as E9 <<subject>>[[psysml:e92543c2-0729-41aa-bde4-56607b8bdddb ]] {
+
+}
+
+comp usage "<size:30><&person></size> Автор: Author  " as E10  <<(T,blue) part>> [[psysml:9d44ea01-78c2-4172-9129-7163a029cfca ]] {
+
+}
+
+}
+
+E2 o- - E3 [[psysml:b25cc6ab-169f-4ad1-92dd-ba7701f3d166 ]]
+
+E2 - - E4 [[psysml:db3fe5e4-ea2a-49f4-b61e-83c921a221cf ]]
+
+E5 o- - E6 [[psysml:99a9c8c4-e8f2-4b60-a5bf-c01dadebef30 ]]
+
+E5 - - E7 [[psysml:c45f0f1f-6f6a-48cf-912a-1e2a28a4f7de ]]
+
+E8 o- - E9 [[psysml:1575425f-7246-4fc6-ba7e-d34bbad89d74 ]]
+
+E8 - - E10 [[psysml:a5e69718-cf0a-44d2-9ac3-b756f1dae7f4 ]]
+
+@enduml
+
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

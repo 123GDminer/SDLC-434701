@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="301px" preserveAspectRatio="none" style="width:817px;height:301px;background:#FFFFFF;" version="1.1" viewBox="0 0 817 301" width="817px" zoomAndPan="magnify"><defs/><g><!--MD5=[fbc87193dbaf4d95561dea2c320d4a47]
+cluster E1--><g id="cluster_E1"><a href="psysml:d05183ec-74b5-451b-9a71-c08dcdcf8e67" target="_top" title="psysml:d05183ec-74b5-451b-9a71-c08dcdcf8e67" xlink:actuate="onRequest" xlink:href="psysml:d05183ec-74b5-451b-9a71-c08dcdcf8e67" xlink:show="new" xlink:title="psysml:d05183ec-74b5-451b-9a71-c08dcdcf8e67" xlink:type="simple"><rect fill="#FFFFFF" height="288" id="E1" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="803" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="266" x="275.5" y="26.5332">&lt;editorScreen&gt; Редактор отзыва: Screen</text><line style="stroke:#383838;stroke-width:1.0;" x1="7" x2="810" y1="34.6094" y2="34.6094"/></a></g><!--MD5=[f6df4d0ebaf0b5dfb2ced0ae5af7c670]
+cluster E4--><g id="cluster_E4"><a href="psysml:cddf0f03-15a2-40d0-8130-b8da28254005" target="_top" title="psysml:cddf0f03-15a2-40d0-8130-b8da28254005" xlink:actuate="onRequest" xlink:href="psysml:cddf0f03-15a2-40d0-8130-b8da28254005" xlink:show="new" xlink:title="psysml:cddf0f03-15a2-40d0-8130-b8da28254005" xlink:type="simple"><rect fill="#FFFFFF" height="108" id="E4" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="553" x="225" y="107"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="215" x="394" y="126.5332">&lt;pictures&gt; Фотографии: EntryList</text><line style="stroke:#383838;stroke-width:1.0;" x1="225" x2="778" y1="134.6094" y2="134.6094"/></a></g><g><a href="psysml:aaa8e099-4daf-4afb-87af-26da9cd9927c" target="_top" title="psysml:aaa8e099-4daf-4afb-87af-26da9cd9927c" xlink:actuate="onRequest" xlink:href="psysml:aaa8e099-4daf-4afb-87af-26da9cd9927c" xlink:show="new" xlink:title="psysml:aaa8e099-4daf-4afb-87af-26da9cd9927c" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E2" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="326" x="91" y="43"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="315" x="96.5" y="62.5332">&lt;reviewedPlace&gt; Достопримечательность: Field</text></a></g><g><a href="psysml:ddda42e6-c58c-4b4d-a7e5-7f9ce4775ba5" target="_top" title="psysml:ddda42e6-c58c-4b4d-a7e5-7f9ce4775ba5" xlink:actuate="onRequest" xlink:href="psysml:ddda42e6-c58c-4b4d-a7e5-7f9ce4775ba5" xlink:show="new" xlink:title="psysml:ddda42e6-c58c-4b4d-a7e5-7f9ce4775ba5" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E3" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="179" x="22.5" y="151"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="28" y="170.5332">&lt;text&gt; Текст отзыва: Field</text></a></g><g><a href="psysml:84d55ae7-bd28-411a-89d0-e948acc231d3" target="_top" title="psysml:84d55ae7-bd28-411a-89d0-e948acc231d3" xlink:actuate="onRequest" xlink:href="psysml:84d55ae7-bd28-411a-89d0-e948acc231d3" xlink:show="new" xlink:title="psysml:84d55ae7-bd28-411a-89d0-e948acc231d3" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E5" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="225" x="249.5" y="151"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="214" x="255" y="170.5332">Предпросмотр снимка 1: Control</text></a></g><g><a href="psysml:8220e643-52fe-4ccb-8fe5-35fc1c00cbde" target="_top" title="psysml:8220e643-52fe-4ccb-8fe5-35fc1c00cbde" xlink:actuate="onRequest" xlink:href="psysml:8220e643-52fe-4ccb-8fe5-35fc1c00cbde" xlink:show="new" xlink:title="psysml:8220e643-52fe-4ccb-8fe5-35fc1c00cbde" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E6" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="225" x="509.5" y="151"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="214" x="515" y="170.5332">Предпросмотр снимка 2: Control</text></a></g><g><a href="psysml:7e2947c5-b5cb-417c-be5e-06840f776b29" target="_top" title="psysml:7e2947c5-b5cb-417c-be5e-06840f776b29" xlink:actuate="onRequest" xlink:href="psysml:7e2947c5-b5cb-417c-be5e-06840f776b29" xlink:show="new" xlink:title="psysml:7e2947c5-b5cb-417c-be5e-06840f776b29" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E7" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="273" x="520.5" y="43"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="262" x="526" y="62.5332">&lt;attach&gt; Добавить фотографии: Control</text></a></g><g><a href="psysml:2cd08b59-04d6-4c0a-bb3a-2186387aa92e" target="_top" title="psysml:2cd08b59-04d6-4c0a-bb3a-2186387aa92e" xlink:actuate="onRequest" xlink:href="psysml:2cd08b59-04d6-4c0a-bb3a-2186387aa92e" xlink:show="new" xlink:title="psysml:2cd08b59-04d6-4c0a-bb3a-2186387aa92e" xlink:type="simple"><rect fill="#FFFFFF" height="40" id="E8" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="224" x="296" y="239"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="213" x="301.5" y="258.5332">&lt;publish&gt; Опубликовать: Control</text></a></g><!--MD5=[6bdd27f9905911a7e892a3dc65cf6b7c]
+link E7 to E4--><g id="link_E7_E4"><a href="psysml:f79a34f5-e7e9-49a8-9ac3-2d1b13028527" target="_top" title="psysml:f79a34f5-e7e9-49a8-9ac3-2d1b13028527" xlink:actuate="onRequest" xlink:href="psysml:f79a34f5-e7e9-49a8-9ac3-2d1b13028527" xlink:show="new" xlink:title="psysml:f79a34f5-e7e9-49a8-9ac3-2d1b13028527" xlink:type="simple"><path d="M742.15,83.37 C745.33,85.65 748.3,88.18 751,91 C754.0238,94.1588 756.5938,97.7109 758.7756,101.515 C759.321,102.466 759.8422,103.4327 760.3402,104.413 C760.5891,104.9031 760.8323,105.3966 761.0698,105.8933 C761.1885,106.1416 761.3059,106.3907 761.4218,106.6405 " fill="none" id="E7-E4" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[ca5a752d6098d8a44b3f88316e7452d1]
+link E3 to E8--><g id="link_E3_E8"><a href="psysml:e93ef514-a5fc-4d0d-bdeb-0bab4eb74cab" target="_top" title="psysml:e93ef514-a5fc-4d0d-bdeb-0bab4eb74cab" xlink:actuate="onRequest" xlink:href="psysml:e93ef514-a5fc-4d0d-bdeb-0bab4eb74cab" xlink:show="new" xlink:title="psysml:e93ef514-a5fc-4d0d-bdeb-0bab4eb74cab" xlink:type="simple"><path d="M145.04,191.48 C168.75,204.62 201.89,221.26 233,231 C252.95,237.25 274.65,242.08 295.76,245.81 " fill="none" id="E3-E8" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[353cdda3e1e05fc02373f055b6f604ae]
+link E4 to E8--><g id="link_E4_E8"><a href="psysml:488397d0-9c70-4ed1-a5bf-c26813fab60e" target="_top" title="psysml:488397d0-9c70-4ed1-a5bf-c26813fab60e" xlink:actuate="onRequest" xlink:href="psysml:488397d0-9c70-4ed1-a5bf-c26813fab60e" xlink:show="new" xlink:title="psysml:488397d0-9c70-4ed1-a5bf-c26813fab60e" xlink:type="simple"><path d="M762.8227,215.1667 C760.0487,221.2688 756.235,226.8625 751,231 C733.02,245.21 613.28,252.09 520.28,255.32 " fill="none" id="E4-E8" style="stroke:#181818;stroke-width:3.0;"/></a></g><!--MD5=[4011a47747d24a3eebd9d8eb4b1c72f6]
+@startuml
+
+skin sysmlbw
+
+skinparam monochrome true
+
+skinparam wrapWidth 300
+
+hide circle
+
+skinparam ranksep 10
+
+skinparam rectangle {
+
+ backgroundColor<<block>> LightGreen
+
+}
+
+
+
+rec usage "<editorScreen> Редактор отзыва: Screen" as E1 [[psysml:d05183ec-74b5-451b-9a71-c08dcdcf8e67 ]] {
+
+rec usage "<reviewedPlace> Достопримечательность: Field" as E2 [[psysml:aaa8e099-4daf-4afb-87af-26da9cd9927c ]] {
+
+}
+
+rec usage "<text> Текст отзыва: Field" as E3 [[psysml:ddda42e6-c58c-4b4d-a7e5-7f9ce4775ba5 ]] {
+
+}
+
+rec usage "<pictures> Фотографии: EntryList" as E4 [[psysml:cddf0f03-15a2-40d0-8130-b8da28254005 ]] {
+
+rec usage "Предпросмотр снимка 1: Control" as E5 [[psysml:84d55ae7-bd28-411a-89d0-e948acc231d3 ]] {
+
+}
+
+rec usage "Предпросмотр снимка 2: Control" as E6 [[psysml:8220e643-52fe-4ccb-8fe5-35fc1c00cbde ]] {
+
+}
+
+}
+
+rec usage "<attach> Добавить фотографии: Control" as E7 [[psysml:7e2947c5-b5cb-417c-be5e-06840f776b29 ]] {
+
+}
+
+rec usage "<publish> Опубликовать: Control" as E8 [[psysml:2cd08b59-04d6-4c0a-bb3a-2186387aa92e ]] {
+
+}
+
+}
+
+E7 -[thickness=3]- E4 [[psysml:f79a34f5-e7e9-49a8-9ac3-2d1b13028527 ]]
+
+E3 -[thickness=3]- E8 [[psysml:e93ef514-a5fc-4d0d-bdeb-0bab4eb74cab ]]
+
+E4 -[thickness=3]- E8 [[psysml:488397d0-9c70-4ed1-a5bf-c26813fab60e ]]
+
+@enduml
+
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

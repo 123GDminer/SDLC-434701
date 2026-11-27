@@ -1,17 +1,25 @@
-package GuideReviewPhotos {
-    doc /* Электронный путеводитель. Состав публикации для сценария развития из раздела 5.6. */
+// Электронный путеводитель. Данные каталога, обзоров и вложений.
+package GuideData {
+    part def Country;
+    part def Subject;
+    part def Site :> Subject;
+    part def Route :> Subject;
     part def Photograph;
-    part def PlaceOrRoute;
     part def Review {
-        ref part subject : PlaceOrRoute;
-        part photo : Photograph[0..*];
+        ref part describing : Subject;
+        part pictures : Photograph[0..*];
     }
-    part def ReviewEditor {
-        doc /* Автор вводит текст и прикрепляет фотографии перед публикацией. */
-        ref part draft : Review;
-    }
-    part def ReviewReader {
-        doc /* Получатель ссылки открывает опубликованный отзыв вместе с его фотографиями. */
-        ref part publishedReview : Review;
+
+    part <dataView> 'Связи данных' {
+        part <country> 'Страна' : Country;
+        part <places> 'Место' : Site[0..*];
+        part <routes> 'Маршрут' : Route[0..*];
+        part <reviews> 'Отзыв' : Review[0..*];
+        part <photos> 'Снимок' : Photograph[0..*];
+        connection 'места страны' connect country to places;
+        connection 'маршруты страны' connect country to routes;
+        connection 'отзыв о месте' connect reviews to places;
+        connection 'отзыв о прогулке' connect reviews to routes;
+        connection 'вложения' connect reviews to photos;
     }
 }

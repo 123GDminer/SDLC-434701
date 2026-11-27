@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="286px" preserveAspectRatio="none" style="width:913px;height:286px;background:#FFFFFF;" version="1.1" viewBox="0 0 913 286" width="913px" zoomAndPan="magnify"><defs/><g><!--MD5=[43c9051892ef23e1a46a86907403d788]
+class E1--><a href="psysml:6cc7c41a-7996-4159-9b55-259116a70133" target="_top" title="psysml:6cc7c41a-7996-4159-9b55-259116a70133" xlink:actuate="onRequest" xlink:href="psysml:6cc7c41a-7996-4159-9b55-259116a70133" xlink:show="new" xlink:title="psysml:6cc7c41a-7996-4159-9b55-259116a70133" xlink:type="simple"><g id="elem_E1"><rect fill="#FFFFFF" height="50.7031" id="E1" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="307" x="139" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="81" x="252" y="24.457">«requirement»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="293" x="142" y="41.627">&lt;categories&gt; Спецификация: 20 требований</text><line style="stroke:#181818;stroke-width:0.5;" x1="140" x2="445" y1="49.7031" y2="49.7031"/></g></a><!--MD5=[b4997ac47864f28c2f74865a473b2911]
+class E2--><a href="psysml:3555f14a-bc94-4195-982e-2f54f7e3be00" target="_top" title="psysml:3555f14a-bc94-4195-982e-2f54f7e3be00" xlink:actuate="onRequest" xlink:href="psysml:3555f14a-bc94-4195-982e-2f54f7e3be00" xlink:show="new" xlink:title="psysml:3555f14a-bc94-4195-982e-2f54f7e3be00" xlink:type="simple"><g id="elem_E2"><rect fill="#FFFFFF" height="50.7031" id="E2" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="83" x="7" y="117.7"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="81" x="8" y="135.157">«requirement»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="13.5" y="152.327">Бизнес: 1</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="89" y1="160.4031" y2="160.4031"/></g></a><!--MD5=[09b614a08d8cba4a07c9adeb5e0fee81]
+class E3--><a href="psysml:9472fae5-1e5d-4b08-a1f8-5d644fc15e73" target="_top" title="psysml:9472fae5-1e5d-4b08-a1f8-5d644fc15e73" xlink:actuate="onRequest" xlink:href="psysml:9472fae5-1e5d-4b08-a1f8-5d644fc15e73" xlink:show="new" xlink:title="psysml:9472fae5-1e5d-4b08-a1f8-5d644fc15e73" xlink:type="simple"><g id="elem_E3"><rect fill="#FFFFFF" height="50.7031" id="E3" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="165" x="125" y="117.7"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="81" x="167" y="135.157">«requirement»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="128" y="152.327">Функциональность: 10</text><line style="stroke:#181818;stroke-width:0.5;" x1="126" x2="289" y1="160.4031" y2="160.4031"/></g></a><!--MD5=[ebbe1d658d1005bcc118a6aa81145e00]
+class E4--><a href="psysml:83c07dac-87b0-42ba-a6cd-fff591abb234" target="_top" title="psysml:83c07dac-87b0-42ba-a6cd-fff591abb234" xlink:actuate="onRequest" xlink:href="psysml:83c07dac-87b0-42ba-a6cd-fff591abb234" xlink:show="new" xlink:title="psysml:83c07dac-87b0-42ba-a6cd-fff591abb234" xlink:type="simple"><g id="elem_E4"><rect fill="#FFFFFF" height="50.7031" id="E4" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="105" x="325" y="117.7"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="81" x="337" y="135.157">«requirement»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="91" x="328" y="152.327">Интерфейс: 4</text><line style="stroke:#181818;stroke-width:0.5;" x1="326" x2="429" y1="160.4031" y2="160.4031"/></g></a><!--MD5=[270fce915f116d4de14055a7c1d9a0f3]
+class E5--><a href="psysml:402501e9-a5d9-4375-bfbf-7d154f841802" target="_top" title="psysml:402501e9-a5d9-4375-bfbf-7d154f841802" xlink:actuate="onRequest" xlink:href="psysml:402501e9-a5d9-4375-bfbf-7d154f841802" xlink:show="new" xlink:title="psysml:402501e9-a5d9-4375-bfbf-7d154f841802" xlink:type="simple"><g id="elem_E5"><rect fill="#FFFFFF" height="50.7031" id="E5" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="188" x="464.5" y="117.7"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="81" x="518" y="135.157">«requirement»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="467.5" y="152.327">Качество обслуживания: 5</text><line style="stroke:#181818;stroke-width:0.5;" x1="465.5" x2="651.5" y1="160.4031" y2="160.4031"/></g></a><!--MD5=[60a26617385b1d2d0262a64233df1f8d]
+class E6--><a href="psysml:b5596264-4b07-4480-9085-abf1b4201259" target="_top" title="psysml:b5596264-4b07-4480-9085-abf1b4201259" xlink:actuate="onRequest" xlink:href="psysml:b5596264-4b07-4480-9085-abf1b4201259" xlink:show="new" xlink:title="psysml:b5596264-4b07-4480-9085-abf1b4201259" xlink:type="simple"><g id="elem_E6"><rect fill="#FFFFFF" height="50.7031" id="E6" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="110" x="262.5" y="228.41"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="81" x="277" y="245.867">«requirement»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="265.5" y="263.037">Надёжность: 2</text><line style="stroke:#181818;stroke-width:0.5;" x1="263.5" x2="371.5" y1="271.1131" y2="271.1131"/></g></a><!--MD5=[2156ba9850f5573cc1fc38a6a4b2f02b]
+class E7--><a href="psysml:c946215d-6c3b-484c-b694-1a5c457f67e2" target="_top" title="psysml:c946215d-6c3b-484c-b694-1a5c457f67e2" xlink:actuate="onRequest" xlink:href="psysml:c946215d-6c3b-484c-b694-1a5c457f67e2" xlink:show="new" xlink:title="psysml:c946215d-6c3b-484c-b694-1a5c457f67e2" xlink:type="simple"><g id="elem_E7"><rect fill="#FFFFFF" height="50.7031" id="E7" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="122" x="407.5" y="228.41"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="81" x="428" y="245.867">«requirement»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="410.5" y="263.037">Безопасность: 1</text><line style="stroke:#181818;stroke-width:0.5;" x1="408.5" x2="528.5" y1="271.1131" y2="271.1131"/></g></a><!--MD5=[b9389687b975829384b498ac4b7476b2]
+class E8--><a href="psysml:3c4e32fe-11a8-4447-bd17-53afb826644a" target="_top" title="psysml:3c4e32fe-11a8-4447-bd17-53afb826644a" xlink:actuate="onRequest" xlink:href="psysml:3c4e32fe-11a8-4447-bd17-53afb826644a" xlink:show="new" xlink:title="psysml:3c4e32fe-11a8-4447-bd17-53afb826644a" xlink:type="simple"><g id="elem_E8"><rect fill="#FFFFFF" height="50.7031" id="E8" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="169" x="564" y="228.41"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="81" x="608" y="245.867">«requirement»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="567" y="263.037">Производительность: 1</text><line style="stroke:#181818;stroke-width:0.5;" x1="565" x2="732" y1="271.1131" y2="271.1131"/></g></a><!--MD5=[fd4143e9d270a159db93a4ea2a975926]
+class E9--><a href="psysml:a9c3ff58-e69e-4859-acb2-192281127775" target="_top" title="psysml:a9c3ff58-e69e-4859-acb2-192281127775" xlink:actuate="onRequest" xlink:href="psysml:a9c3ff58-e69e-4859-acb2-192281127775" xlink:show="new" xlink:title="psysml:a9c3ff58-e69e-4859-acb2-192281127775" xlink:type="simple"><g id="elem_E9"><rect fill="#FFFFFF" height="50.7031" id="E9" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="138" x="768.5" y="228.41"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="81" x="797" y="245.867">«requirement»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="771.5" y="263.037">Наблюдаемость: 1</text><line style="stroke:#181818;stroke-width:0.5;" x1="769.5" x2="905.5" y1="271.1131" y2="271.1131"/></g></a><!--MD5=[a523cb2a0b79ecf9065ad8783f96c320]
+reverse link E1 to E2--><g id="link_E1_E2"><a href="psysml:1466cae7-faa0-4e62-a3c4-607ebdeb9374" target="_top" title="psysml:1466cae7-faa0-4e62-a3c4-607ebdeb9374" xlink:actuate="onRequest" xlink:href="psysml:1466cae7-faa0-4e62-a3c4-607ebdeb9374" xlink:show="new" xlink:title="psysml:1466cae7-faa0-4e62-a3c4-607ebdeb9374" xlink:type="simple"><path d="M223.59,64.05 C180.65,83.18 126.8,107.17 90.24,123.46 " fill="none" id="E1-backto-E2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="235.44,58.77,228.3323,57.5532,224.4753,63.6461,231.583,64.8629,235.44,58.77" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[5d7b3810b1dd9b5164bea1151b29b665]
+reverse link E1 to E3--><g id="link_E1_E3"><a href="psysml:0d5e6eec-fdb8-4737-ab1b-183252d240f5" target="_top" title="psysml:0d5e6eec-fdb8-4737-ab1b-183252d240f5" xlink:actuate="onRequest" xlink:href="psysml:0d5e6eec-fdb8-4737-ab1b-183252d240f5" xlink:show="new" xlink:title="psysml:0d5e6eec-fdb8-4737-ab1b-183252d240f5" xlink:type="simple"><path d="M264.59,69.05 C252.18,84.91 237.89,103.19 226.71,117.49 " fill="none" id="E1-backto-E3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="272.28,59.21,265.4343,61.4765,264.8936,68.6673,271.7392,66.4008,272.28,59.21" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[f2c5c03aa1e8c0ba21c10a05e6444b8e]
+reverse link E1 to E4--><g id="link_E1_E4"><a href="psysml:01adfde0-a9ef-4458-a39b-58fc8cb7d251" target="_top" title="psysml:01adfde0-a9ef-4458-a39b-58fc8cb7d251" xlink:actuate="onRequest" xlink:href="psysml:01adfde0-a9ef-4458-a39b-58fc8cb7d251" xlink:show="new" xlink:title="psysml:01adfde0-a9ef-4458-a39b-58fc8cb7d251" xlink:type="simple"><path d="M320.41,69.05 C332.82,84.91 347.11,103.19 358.29,117.49 " fill="none" id="E1-backto-E4" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="312.72,59.21,313.2608,66.4008,320.1064,68.6673,319.5657,61.4765,312.72,59.21" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[33238bef88d6431a141d8bc8fb12bca0]
+reverse link E1 to E5--><g id="link_E1_E5"><a href="psysml:c44c9e18-8179-4dcd-b9b6-41459f2f07a5" target="_top" title="psysml:c44c9e18-8179-4dcd-b9b6-41459f2f07a5" xlink:actuate="onRequest" xlink:href="psysml:c44c9e18-8179-4dcd-b9b6-41459f2f07a5" xlink:show="new" xlink:title="psysml:c44c9e18-8179-4dcd-b9b6-41459f2f07a5" xlink:type="simple"><path d="M366.57,63.62 C408.02,80.56 459.05,101.41 498.07,117.36 " fill="none" id="E1-backto-E5" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="354.59,58.73,358.634,64.7004,365.7005,63.2638,361.6566,57.2934,354.59,58.73" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[85d356282659285ab4b2cfe2f634dd2b]
+reverse link E5 to E6--><g id="link_E5_E6"><a href="psysml:f8edf560-1dbf-4a00-ad13-59d7365246d8" target="_top" title="psysml:f8edf560-1dbf-4a00-ad13-59d7365246d8" xlink:actuate="onRequest" xlink:href="psysml:f8edf560-1dbf-4a00-ad13-59d7365246d8" xlink:show="new" xlink:title="psysml:f8edf560-1dbf-4a00-ad13-59d7365246d8" xlink:type="simple"><path d="M490.66,174.66 C453.23,191.54 407.37,212.22 372.25,228.06 " fill="none" id="E5-backto-E6" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="502.13,169.48,495.0159,168.3013,491.1916,174.4148,498.3058,175.5935,502.13,169.48" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[452b418e7f8a40397a49b8c0a78acc5b]
+reverse link E5 to E7--><g id="link_E5_E7"><a href="psysml:1dc04a4f-c512-4d49-84fc-3d4e91cf9b5f" target="_top" title="psysml:1dc04a4f-c512-4d49-84fc-3d4e91cf9b5f" xlink:actuate="onRequest" xlink:href="psysml:1dc04a4f-c512-4d49-84fc-3d4e91cf9b5f" xlink:show="new" xlink:title="psysml:1dc04a4f-c512-4d49-84fc-3d4e91cf9b5f" xlink:type="simple"><path d="M528.94,179.75 C515.81,195.62 500.68,213.89 488.84,228.19 " fill="none" id="E5-backto-E7" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="537.11,169.89,530.2033,171.9629,529.4603,179.1356,536.367,177.0627,537.11,169.89" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[827760032d119d06bbc92f75530fd7ae]
+reverse link E5 to E8--><g id="link_E5_E8"><a href="psysml:9915d977-dcb1-4e26-bac3-768abcc086d1" target="_top" title="psysml:9915d977-dcb1-4e26-bac3-768abcc086d1" xlink:actuate="onRequest" xlink:href="psysml:9915d977-dcb1-4e26-bac3-768abcc086d1" xlink:show="new" xlink:title="psysml:9915d977-dcb1-4e26-bac3-768abcc086d1" xlink:type="simple"><path d="M588.06,179.75 C601.19,195.62 616.32,213.89 628.16,228.19 " fill="none" id="E5-backto-E8" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="579.89,169.89,580.633,177.0627,587.5397,179.1356,586.7967,171.9629,579.89,169.89" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[9ae28de373ca99bb8a1b38d63370ca7e]
+reverse link E5 to E9--><g id="link_E5_E9"><a href="psysml:f09ead15-94a2-4586-b153-98a6bc50d8c1" target="_top" title="psysml:f09ead15-94a2-4586-b153-98a6bc50d8c1" xlink:actuate="onRequest" xlink:href="psysml:f09ead15-94a2-4586-b153-98a6bc50d8c1" xlink:show="new" xlink:title="psysml:f09ead15-94a2-4586-b153-98a6bc50d8c1" xlink:type="simple"><path d="M635.62,174.1 C679.2,191.08 733.01,212.05 774.11,228.06 " fill="none" id="E5-backto-E9" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="623.57,169.41,627.7109,175.3136,634.7531,173.7619,630.6122,167.8583,623.57,169.41" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[8808a09b4b8a666d1ab8e3aeff59ddf1]
+@startuml
+
+skin sysmlbw
+
+skinparam monochrome true
+
+skinparam wrapWidth 300
+
+hide circle
+
+
+
+comp usage "~<categories> Спецификация: 20 требований  " as E1  <<(T,blue) requirement>> [[psysml:6cc7c41a-7996-4159-9b55-259116a70133 ]] {
+
+}
+
+comp usage "Бизнес: 1  " as E2  <<(T,blue) requirement>> [[psysml:3555f14a-bc94-4195-982e-2f54f7e3be00 ]] {
+
+}
+
+comp usage "Функциональность: 10  " as E3  <<(T,blue) requirement>> [[psysml:9472fae5-1e5d-4b08-a1f8-5d644fc15e73 ]] {
+
+}
+
+comp usage "Интерфейс: 4  " as E4  <<(T,blue) requirement>> [[psysml:83c07dac-87b0-42ba-a6cd-fff591abb234 ]] {
+
+}
+
+comp usage "Качество обслуживания: 5  " as E5  <<(T,blue) requirement>> [[psysml:402501e9-a5d9-4375-bfbf-7d154f841802 ]] {
+
+}
+
+comp usage "Надёжность: 2  " as E6  <<(T,blue) requirement>> [[psysml:b5596264-4b07-4480-9085-abf1b4201259 ]] {
+
+}
+
+comp usage "Безопасность: 1  " as E7  <<(T,blue) requirement>> [[psysml:c946215d-6c3b-484c-b694-1a5c457f67e2 ]] {
+
+}
+
+comp usage "Производительность: 1  " as E8  <<(T,blue) requirement>> [[psysml:3c4e32fe-11a8-4447-bd17-53afb826644a ]] {
+
+}
+
+comp usage "Наблюдаемость: 1  " as E9  <<(T,blue) requirement>> [[psysml:a9c3ff58-e69e-4859-acb2-192281127775 ]] {
+
+}
+
+E1 *- - E2 [[psysml:1466cae7-faa0-4e62-a3c4-607ebdeb9374 ]]
+
+E1 *- - E3 [[psysml:0d5e6eec-fdb8-4737-ab1b-183252d240f5 ]]
+
+E1 *- - E4 [[psysml:01adfde0-a9ef-4458-a39b-58fc8cb7d251 ]]
+
+E1 *- - E5 [[psysml:c44c9e18-8179-4dcd-b9b6-41459f2f07a5 ]]
+
+E5 *- - E6 [[psysml:f8edf560-1dbf-4a00-ad13-59d7365246d8 ]]
+
+E5 *- - E7 [[psysml:1dc04a4f-c512-4d49-84fc-3d4e91cf9b5f ]]
+
+E5 *- - E8 [[psysml:9915d977-dcb1-4e26-bac3-768abcc086d1 ]]
+
+E5 *- - E9 [[psysml:f09ead15-94a2-4586-b153-98a6bc50d8c1 ]]
+
+@enduml
+
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

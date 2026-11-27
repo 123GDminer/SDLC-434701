@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="568px" preserveAspectRatio="none" style="width:365px;height:568px;background:#FFFFFF;" version="1.1" viewBox="0 0 365 568" width="365px" zoomAndPan="magnify"><defs/><g><!--MD5=[fbc87193dbaf4d95561dea2c320d4a47]
+cluster E1--><g id="cluster_E1"><a href="psysml:deab1d25-737c-4d15-bed3-68b25991b01d" target="_top" title="psysml:deab1d25-737c-4d15-bed3-68b25991b01d" xlink:actuate="onRequest" xlink:href="psysml:deab1d25-737c-4d15-bed3-68b25991b01d" xlink:show="new" xlink:title="psysml:deab1d25-737c-4d15-bed3-68b25991b01d" xlink:type="simple"><rect fill="#FFFFFF" height="555.22" id="E1" style="stroke:#383838;stroke-width:1.5;" width="351" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="70" x="147.5" y="24.457">«action  def»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="170" x="97.5" y="41.627">&lt;Review&gt; Обмен обзором</text><line style="stroke:#383838;stroke-width:1.0;" x1="7" x2="358" y1="49.7031" y2="49.7031"/></a></g><g id="elem_E4"><polygon fill="#FFFFFF" points="182,227.41,194,239.41,182,251.41,170,239.41,182,227.41" style="stroke:#181818;stroke-width:0.5;"/></g><ellipse cx="182" cy="71" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><ellipse cx="110" cy="536.22" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="110.5" cy="536.72" fill="#222222" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><g><a href="psysml:7a33c643-7674-4f5d-92d2-135c780d4ef4" target="_top" title="psysml:7a33c643-7674-4f5d-92d2-135c780d4ef4" xlink:actuate="onRequest" xlink:href="psysml:7a33c643-7674-4f5d-92d2-135c780d4ef4" xlink:show="new" xlink:title="psysml:7a33c643-7674-4f5d-92d2-135c780d4ef4" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E2" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="295" x="34.5" y="98"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="47" x="158.5" y="115.457">«action»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="284" x="40" y="132.627">&lt;draft&gt; Выбрать объект и заполнить отзыв</text></a></g><g><a href="psysml:3188df0a-9f4a-4e3a-98e8-3304627e3ffa" target="_top" title="psysml:3188df0a-9f4a-4e3a-98e8-3304627e3ffa" xlink:actuate="onRequest" xlink:href="psysml:3188df0a-9f4a-4e3a-98e8-3304627e3ffa" xlink:show="new" xlink:title="psysml:3188df0a-9f4a-4e3a-98e8-3304627e3ffa" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E3" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="270" x="47" y="162.7"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="47" x="158.5" y="180.157">«action»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="259" x="52.5" y="197.327">&lt;validate&gt; Проверить текст и вложения</text></a></g><g><a href="psysml:28ea674f-29c5-4a01-b260-93141dd21a51" target="_top" title="psysml:28ea674f-29c5-4a01-b260-93141dd21a51" xlink:actuate="onRequest" xlink:href="psysml:28ea674f-29c5-4a01-b260-93141dd21a51" xlink:show="new" xlink:title="psysml:28ea674f-29c5-4a01-b260-93141dd21a51" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E5" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="194" x="23" y="341.11"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="47" x="96.5" y="358.567">«action»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="183" x="28.5" y="375.737">&lt;retain&gt; Оставить черновик</text></a></g><g><a href="psysml:4cee87ce-d494-4604-a2a9-dd6ffd5686a0" target="_top" title="psysml:4cee87ce-d494-4604-a2a9-dd6ffd5686a0" xlink:actuate="onRequest" xlink:href="psysml:4cee87ce-d494-4604-a2a9-dd6ffd5686a0" xlink:show="new" xlink:title="psysml:4cee87ce-d494-4604-a2a9-dd6ffd5686a0" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E6" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="212" x="126" y="285.41"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="47" x="208.5" y="302.867">«action»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="201" x="131.5" y="320.037">&lt;publish&gt; Опубликовать обзор</text></a></g><g><a href="psysml:89d84479-c6b0-40b6-a0a8-e3c14cbf7d73" target="_top" title="psysml:89d84479-c6b0-40b6-a0a8-e3c14cbf7d73" xlink:actuate="onRequest" xlink:href="psysml:89d84479-c6b0-40b6-a0a8-e3c14cbf7d73" xlink:show="new" xlink:title="psysml:89d84479-c6b0-40b6-a0a8-e3c14cbf7d73" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E7" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="281" x="60.5" y="396.81"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="47" x="177.5" y="414.267">«action»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="270" x="66" y="431.437">&lt;share&gt; Скопировать и передать ссылку</text></a></g><g><a href="psysml:36f6a42f-4b62-4f78-92af-da5a75c0026d" target="_top" title="psysml:36f6a42f-4b62-4f78-92af-da5a75c0026d" xlink:actuate="onRequest" xlink:href="psysml:36f6a42f-4b62-4f78-92af-da5a75c0026d" xlink:show="new" xlink:title="psysml:36f6a42f-4b62-4f78-92af-da5a75c0026d" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E8" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="229" x="73.5" y="461.52"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="47" x="164.5" y="478.977">«action»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="218" x="79" y="496.147">&lt;read&gt; Открыть обзор по ссылке</text></a></g><!--MD5=[cff944eb183b832d446717a4e202d613]
+link *start*E1 to E2--><g id="link_*start*E1_E2"><a href="psysml:d6966333-9ff0-4ca8-8f8c-3bd1acb8ed20" target="_top" title="psysml:d6966333-9ff0-4ca8-8f8c-3bd1acb8ed20" xlink:actuate="onRequest" xlink:href="psysml:d6966333-9ff0-4ca8-8f8c-3bd1acb8ed20" xlink:show="new" xlink:title="psysml:d6966333-9ff0-4ca8-8f8c-3bd1acb8ed20" xlink:type="simple"><path d="M182,81.42 C182,84.33 182,87.71 182,91.23 " fill="none" id="*start*E1-to-E2" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="182,96.17,186,87.17,182,91.17,178,87.17,182,96.17" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[7fc47fc0d107820853a137871ad908c8]
+link E5 to *end*E1--><g id="link_E5_*end*E1"><a href="psysml:f617cbe1-9980-440d-bf1b-4cf175874705" target="_top" title="psysml:f617cbe1-9980-440d-bf1b-4cf175874705" xlink:actuate="onRequest" xlink:href="psysml:f617cbe1-9980-440d-bf1b-4cf175874705" xlink:show="new" xlink:title="psysml:f617cbe1-9980-440d-bf1b-4cf175874705" xlink:type="simple"><path d="M49.37,389.29 C47,391.57 44.86,394.07 43,396.81 C14.82,438.47 25.16,469.5 56,509.22 C65.45,521.4 82.06,528.19 94.36,531.75 " fill="none" id="E5-to-*end*E1" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="98.88,532.94,91.1907,526.7857,94.0439,531.6703,89.1593,534.5235,98.88,532.94" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[5dced52a8686f144b98fdbf454ee78f2]
+link E8 to *end*E1--><g id="link_E8_*end*E1"><a href="psysml:60716891-9202-4815-9e0c-51099a3747c0" target="_top" title="psysml:60716891-9202-4815-9e0c-51099a3747c0" xlink:actuate="onRequest" xlink:href="psysml:60716891-9202-4815-9e0c-51099a3747c0" xlink:show="new" xlink:title="psysml:60716891-9202-4815-9e0c-51099a3747c0" xlink:type="simple"><path d="M150.83,509.65 C141.07,515.76 131.16,521.97 123.55,526.73 " fill="none" id="E8-to-*end*E1" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="119.5,529.27,129.2507,527.8832,123.7376,526.6162,125.0046,521.103,119.5,529.27" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[2720a5a1f2c3fca2055b230370638851]
+link E2 to E3--><g id="link_E2_E3"><a href="psysml:7676df58-3d27-4e18-8a4d-6b6b477a0133" target="_top" title="psysml:7676df58-3d27-4e18-8a4d-6b6b477a0133" xlink:actuate="onRequest" xlink:href="psysml:7676df58-3d27-4e18-8a4d-6b6b477a0133" xlink:show="new" xlink:title="psysml:7676df58-3d27-4e18-8a4d-6b6b477a0133" xlink:type="simple"><path d="M182,146.2 C182,149.43 182,152.77 182,156.09 " fill="none" id="E2-to-E3" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="182,160.88,186,151.88,182,155.88,178,151.88,182,160.88" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[af87c684e3b0d8be13c1a698a818ef1e]
+link E3 to E4--><g id="link_E3_E4"><a href="psysml:805bc46f-d901-4397-bd96-af10f8f96ad6" target="_top" title="psysml:805bc46f-d901-4397-bd96-af10f8f96ad6" xlink:actuate="onRequest" xlink:href="psysml:805bc46f-d901-4397-bd96-af10f8f96ad6" xlink:show="new" xlink:title="psysml:805bc46f-d901-4397-bd96-af10f8f96ad6" xlink:type="simple"><path d="M182,210.9 C182,214.1 182,217.34 182,220.43 " fill="none" id="E3-to-E4" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="182,225.33,186,216.33,182,220.33,178,216.33,182,225.33" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[79568f1e445c3877b6a54524624ccc7d]
+link E4 to E6--><g id="link_E4_E6"><a href="psysml:a2fc9885-ffa4-49f8-91f0-b7b264bdd0bc" target="_top" title="psysml:a2fc9885-ffa4-49f8-91f0-b7b264bdd0bc" xlink:actuate="onRequest" xlink:href="psysml:a2fc9885-ffa4-49f8-91f0-b7b264bdd0bc" xlink:show="new" xlink:title="psysml:a2fc9885-ffa4-49f8-91f0-b7b264bdd0bc" xlink:type="simple"><path d="M186.79,246.91 C192.44,254.58 202.19,267.81 211.2,280.03 " fill="none" id="E4-to-E6" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="214.1,283.97,211.9826,274.3514,211.1345,279.9444,205.5416,279.0963,214.1,283.97" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="72" x="209.5" y="273.9051">[canPublish]</text></a></g><!--MD5=[1b7591eae5389033d8d09a9d6721a717]
+link E4 to E5--><g id="link_E4_E5"><a href="psysml:82d07cdc-b8f6-4462-a332-1968703de09e" target="_top" title="psysml:82d07cdc-b8f6-4462-a332-1968703de09e" xlink:actuate="onRequest" xlink:href="psysml:82d07cdc-b8f6-4462-a332-1968703de09e" xlink:show="new" xlink:title="psysml:82d07cdc-b8f6-4462-a332-1968703de09e" xlink:type="simple"><path d="M172.95,242.84 C156.68,247.75 122.86,260.58 109,285.41 C100.64,300.37 103.01,319.36 107.66,334.92 " fill="none" id="E4-to-E5" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="109.14,339.47,110.1683,329.675,107.5975,334.7139,102.5586,332.143,109.14,339.47" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[02c70b7c851c11e3980e4e90450dc5dd]
+link E6 to E7--><g id="link_E6_E7"><a href="psysml:5e61aac6-ab98-40be-9c2e-be695567db60" target="_top" title="psysml:5e61aac6-ab98-40be-9c2e-be695567db60" xlink:actuate="onRequest" xlink:href="psysml:5e61aac6-ab98-40be-9c2e-be695567db60" xlink:show="new" xlink:title="psysml:5e61aac6-ab98-40be-9c2e-be695567db60" xlink:type="simple"><path d="M232.84,333.36 C232.67,349.42 230.91,371.06 224,388.81 C223.75,389.47 223.47,390.12 223.19,390.77 " fill="none" id="E6-to-E7" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="220.91,395.17,228.5842,388.9969,223.1974,390.7239,221.4704,385.3371,220.91,395.17" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[79bc8f324ef4d02c541433f2e6e513c3]
+link E7 to E8--><g id="link_E7_E8"><a href="psysml:c930e61b-e622-4db8-945c-a3e48beec199" target="_top" title="psysml:c930e61b-e622-4db8-945c-a3e48beec199" xlink:actuate="onRequest" xlink:href="psysml:c930e61b-e622-4db8-945c-a3e48beec199" xlink:show="new" xlink:title="psysml:c930e61b-e622-4db8-945c-a3e48beec199" xlink:type="simple"><path d="M196.16,445.01 C195.49,448.24 194.8,451.58 194.11,454.9 " fill="none" id="E7-to-E8" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="193.11,459.73,198.8513,451.7276,194.1235,454.8338,191.0173,450.106,193.11,459.73" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[533e292f7c3be411079a1c18082779a8]
+@startuml
+
+skin sysmlbw
+
+skinparam monochrome true
+
+skinparam wrapWidth 300
+
+hide circle
+
+skinparam ranksep 8
+
+
+
+rec def "~<Review> Обмен обзором" as E1  <<(T,blue) action  def>> [[psysml:deab1d25-737c-4d15-bed3-68b25991b01d ]] {
+
+rec usage "~<draft> Выбрать объект и заполнить отзыв" as E2  <<(T,blue) action>> [[psysml:7a33c643-7674-4f5d-92d2-135c780d4ef4 ]] {
+
+}
+
+
+
+rec usage "~<validate> Проверить текст и вложения" as E3  <<(T,blue) action>> [[psysml:3188df0a-9f4a-4e3a-98e8-3304627e3ffa ]] {
+
+}
+
+
+
+choice "<s>noname</s>" as E4  [[psysml:4feac51c-8bae-46bd-89e1-7ca5a89af0ab ]]
+
+rec usage "~<retain> Оставить черновик" as E5  <<(T,blue) action>> [[psysml:28ea674f-29c5-4a01-b260-93141dd21a51 ]] {
+
+}
+
+
+
+rec usage "~<publish> Опубликовать обзор" as E6  <<(T,blue) action>> [[psysml:4cee87ce-d494-4604-a2a9-dd6ffd5686a0 ]] {
+
+}
+
+
+
+rec usage "~<share> Скопировать и передать ссылку" as E7  <<(T,blue) action>> [[psysml:89d84479-c6b0-40b6-a0a8-e3c14cbf7d73 ]] {
+
+}
+
+
+
+rec usage "~<read> Открыть обзор по ссылке" as E8  <<(T,blue) action>> [[psysml:36f6a42f-4b62-4f78-92af-da5a75c0026d ]] {
+
+}
+
+
+
+[*] ..> E2 [[psysml:d6966333-9ff0-4ca8-8f8c-3bd1acb8ed20 ]]
+
+E5 ..> [*] [[psysml:f617cbe1-9980-440d-bf1b-4cf175874705 ]]
+
+E8 ..> [*] [[psysml:60716891-9202-4815-9e0c-51099a3747c0 ]]
+
+}
+
+
+
+E2 ..> E3 [[psysml:7676df58-3d27-4e18-8a4d-6b6b477a0133 ]]
+
+E3 ..> E4 [[psysml:805bc46f-d901-4397-bd96-af10f8f96ad6 ]]
+
+E4 ..> E6 [[psysml:a2fc9885-ffa4-49f8-91f0-b7b264bdd0bc ]] : [canPublish]
+
+E4 ..> E5 [[psysml:82d07cdc-b8f6-4462-a332-1968703de09e ]]
+
+E6 ..> E7 [[psysml:5e61aac6-ab98-40be-9c2e-be695567db60 ]]
+
+E7 ..> E8 [[psysml:c930e61b-e622-4db8-945c-a3e48beec199 ]]
+
+@enduml
+
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

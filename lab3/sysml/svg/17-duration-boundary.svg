@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="454px" preserveAspectRatio="none" style="width:455px;height:454px;background:#FFFFFF;" version="1.1" viewBox="0 0 455 454" width="455px" zoomAndPan="magnify"><defs/><g><!--MD5=[fbc87193dbaf4d95561dea2c320d4a47]
+cluster E1--><g id="cluster_E1"><a href="psysml:60f07503-3fa3-4e44-b1e5-2af76fdbb88c" target="_top" title="psysml:60f07503-3fa3-4e44-b1e5-2af76fdbb88c" xlink:actuate="onRequest" xlink:href="psysml:60f07503-3fa3-4e44-b1e5-2af76fdbb88c" xlink:show="new" xlink:title="psysml:60f07503-3fa3-4e44-b1e5-2af76fdbb88c" xlink:type="simple"><rect fill="#FFFFFF" height="405.11" id="E1" style="stroke:#383838;stroke-width:1.5;" width="423" x="7" y="43.1855"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="70" x="183.5" y="60.6426">«action  def»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="237" x="100" y="77.8125">&lt;Filter&gt; Отбор прогулок по времени</text><line style="stroke:#383838;stroke-width:1.0;" x1="7" x2="430" y1="85.8887" y2="85.8887"/></a></g><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="6" y="22.1094">sameCountry</text><rect fill="#FFFFFF" height="12" style="stroke:#181818;stroke-width:1.5;" width="12" x="42" y="37.1855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="179.5" y="22.1094">durationMinutes</text><rect fill="#FFFFFF" height="12" style="stroke:#181818;stroke-width:1.5;" width="12" x="224" y="37.1855"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="375.5" y="22.1094">limitMinutes</text><rect fill="#FFFFFF" height="12" style="stroke:#181818;stroke-width:1.5;" width="12" x="406" y="37.1855"/><g id="elem_E7"><polygon fill="#FFFFFF" points="144,141.0355,156,153.0355,144,165.0355,132,153.0355,144,141.0355" style="stroke:#181818;stroke-width:0.5;"/></g><g id="elem_E8"><polygon fill="#FFFFFF" points="52,282.5955,64,294.5955,52,306.5955,40,294.5955,52,282.5955" style="stroke:#181818;stroke-width:0.5;"/></g><ellipse cx="197" cy="102.1855" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><ellipse cx="221" cy="422.2955" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="221.5" cy="422.7955" fill="#222222" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><g><a href="psysml:03596b38-a64b-4e23-ab48-01e1185f7434" target="_top" title="psysml:03596b38-a64b-4e23-ab48-01e1185f7434" xlink:actuate="onRequest" xlink:href="psysml:03596b38-a64b-4e23-ab48-01e1185f7434" xlink:show="new" xlink:title="psysml:03596b38-a64b-4e23-ab48-01e1185f7434" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E5" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="189" x="190.5" y="129.1855"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="47" x="261.5" y="146.6426">«action»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="196" y="163.8125">&lt;match&gt; Проверить страну</text></a></g><g><a href="psysml:2c03fb97-5d51-47c5-a80a-d634e53f89f6" target="_top" title="psysml:2c03fb97-5d51-47c5-a80a-d634e53f89f6" xlink:actuate="onRequest" xlink:href="psysml:2c03fb97-5d51-47c5-a80a-d634e53f89f6" xlink:show="new" xlink:title="psysml:2c03fb97-5d51-47c5-a80a-d634e53f89f6" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E6" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="321" x="22.5" y="210.8855"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="47" x="159.5" y="228.3426">«action»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="310" x="28" y="245.5125">&lt;compare&gt; Сравнить длительность с лимитом</text></a></g><g><a href="psysml:8efd2351-92fe-45f8-b0f2-32d5770906d8" target="_top" title="psysml:8efd2351-92fe-45f8-b0f2-32d5770906d8" xlink:actuate="onRequest" xlink:href="psysml:8efd2351-92fe-45f8-b0f2-32d5770906d8" xlink:show="new" xlink:title="psysml:8efd2351-92fe-45f8-b0f2-32d5770906d8" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E9" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="184" x="23" y="347.5955"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="47" x="91.5" y="365.0526">«action»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="28.5" y="382.2225">&lt;show&gt; Показать прогулку</text></a></g><g><a href="psysml:a3ad076c-36ba-4add-8324-cc9d503b6f68" target="_top" title="psysml:a3ad076c-36ba-4add-8324-cc9d503b6f68" xlink:actuate="onRequest" xlink:href="psysml:a3ad076c-36ba-4add-8324-cc9d503b6f68" xlink:show="new" xlink:title="psysml:a3ad076c-36ba-4add-8324-cc9d503b6f68" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E10" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="168" x="242" y="347.5955"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="47" x="302.5" y="365.0526">«action»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="247.5" y="382.2225">&lt;hide&gt; Скрыть прогулку</text></a></g><!--MD5=[7abbac18aea5ca1baf119f938b2d5ed6]
+link *start*E1 to E5--><g id="link_*start*E1_E5"><a href="psysml:1f8c6210-2496-4366-b426-a7883621759b" target="_top" title="psysml:1f8c6210-2496-4366-b426-a7883621759b" xlink:actuate="onRequest" xlink:href="psysml:1f8c6210-2496-4366-b426-a7883621759b" xlink:show="new" xlink:title="psysml:1f8c6210-2496-4366-b426-a7883621759b" xlink:type="simple"><path d="M204.55,108.8355 C209.64,112.5455 216.57,117.3855 223,121.1855 C225.58,122.7155 228.25,124.2355 230.96,125.7355 " fill="none" id="*start*E1-to-E5" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="235.24,128.0655,229.2348,120.2593,230.8445,125.6823,225.4216,127.2921,235.24,128.0655" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[049fa4564283b38f8a89490bf5d5be82]
+link *start*E1 to E7--><g id="link_*start*E1_E7"><a href="psysml:7c73cc24-75f9-4824-93e0-50a6823cbd9f" target="_top" title="psysml:7c73cc24-75f9-4824-93e0-50a6823cbd9f" xlink:actuate="onRequest" xlink:href="psysml:7c73cc24-75f9-4824-93e0-50a6823cbd9f" xlink:show="new" xlink:title="psysml:7c73cc24-75f9-4824-93e0-50a6823cbd9f" xlink:type="simple"><path d="M190.07,109.5755 C181,117.9255 165.03,132.6555 154.48,142.3755 " fill="none" id="*start*E1-to-E7" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="150.9,145.6755,160.234,142.5328,154.5822,142.293,154.822,136.6413,150.9,145.6755" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[29e1338df021738e1e3ec0267bf92833]
+link E9 to *end*E1--><g id="link_E9_*end*E1"><a href="psysml:92203bbd-988d-491f-9ba6-219d6eca9ff0" target="_top" title="psysml:92203bbd-988d-491f-9ba6-219d6eca9ff0" xlink:actuate="onRequest" xlink:href="psysml:92203bbd-988d-491f-9ba6-219d6eca9ff0" xlink:show="new" xlink:title="psysml:92203bbd-988d-491f-9ba6-219d6eca9ff0" xlink:type="simple"><path d="M165.52,395.7255 C180.49,402.6255 195.74,409.6555 206.44,414.5855 " fill="none" id="E9-to-*end*E1" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="210.82,416.6055,204.329,409.1983,206.2815,414.5075,200.9722,416.46,210.82,416.6055" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[3b11b1fcc5af14b0492c6f038f0e1168]
+link E10 to *end*E1--><g id="link_E10_*end*E1"><a href="psysml:7b051110-0aea-4bd9-ad5f-0faf27fe2b94" target="_top" title="psysml:7b051110-0aea-4bd9-ad5f-0faf27fe2b94" xlink:actuate="onRequest" xlink:href="psysml:7b051110-0aea-4bd9-ad5f-0faf27fe2b94" xlink:show="new" xlink:title="psysml:7b051110-0aea-4bd9-ad5f-0faf27fe2b94" xlink:type="simple"><path d="M275.96,395.7255 C261.3,402.5455 246.39,409.4855 235.8,414.4055 " fill="none" id="E10-to-*end*E1" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="231.47,416.4255,241.3178,416.28,236.0085,414.3275,237.961,409.0183,231.47,416.4255" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[fbb449814971db3a0b8220cf225b9e01]
+link E7 to E6--><g id="link_E7_E6"><a href="psysml:d13ee7dc-73f2-4764-8913-92aaa48694b4" target="_top" title="psysml:d13ee7dc-73f2-4764-8913-92aaa48694b4" xlink:actuate="onRequest" xlink:href="psysml:d13ee7dc-73f2-4764-8913-92aaa48694b4" xlink:show="new" xlink:title="psysml:d13ee7dc-73f2-4764-8913-92aaa48694b4" xlink:type="simple"><path d="M147.74,161.6755 C152.6,171.6055 161.35,189.4855 168.92,204.9555 " fill="none" id="E7-to-E6" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="170.98,209.1655,170.6083,199.3237,168.7783,204.6764,163.4256,202.8464,170.98,209.1655" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="85" x="167.99" y="199.3807">[sameCountry]</text></a></g><!--MD5=[989f225811f638790abf9f05f3edaf99]
+link E7 to E10--><g id="link_E7_E10"><a href="psysml:56678098-12dc-4f47-a275-3dd0f1adf81d" target="_top" title="psysml:56678098-12dc-4f47-a275-3dd0f1adf81d" xlink:actuate="onRequest" xlink:href="psysml:56678098-12dc-4f47-a275-3dd0f1adf81d" xlink:show="new" xlink:title="psysml:56678098-12dc-4f47-a275-3dd0f1adf81d" xlink:type="simple"><path d="M149.56,160.0855 C154.97,165.5155 163.71,173.1955 173,176.8855 C209.9,191.5655 222.88,178.0455 262,184.8855 C306.81,192.7355 333.22,174.8655 361,210.8855 C373.95,227.6755 375.47,243.0955 361,258.5955 C352.11,268.1155 257,265.6755 244,266.5955 C216.22,268.5455 137.97,255.2055 119,275.5955 C107.49,287.9555 107.4,301.3255 119,313.5955 C129.93,325.1555 247.17,315.8255 262,321.5955 C273.77,326.1655 274.02,331.8455 284,339.5955 C285.64,340.8655 287.33,342.1655 289.04,343.4655 " fill="none" id="E7-to-E10" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="293.01,346.4555,288.2445,337.8364,289.022,343.4396,283.4189,344.2171,293.01,346.4555" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[0a839d0f80c2d72d4b9b307f046d0de8]
+link E6 to E8--><g id="link_E6_E8"><a href="psysml:91ba9503-2701-4f11-ac7e-8cd850d31246" target="_top" title="psysml:91ba9503-2701-4f11-ac7e-8cd850d31246" xlink:actuate="onRequest" xlink:href="psysml:91ba9503-2701-4f11-ac7e-8cd850d31246" xlink:show="new" xlink:title="psysml:91ba9503-2701-4f11-ac7e-8cd850d31246" xlink:type="simple"><path d="M128.91,258.9155 C116.43,264.3355 103.23,270.1155 91,275.5955 C82.49,279.3955 72.99,283.7755 65.5,287.2655 " fill="none" id="E6-to-E8" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="61.12,289.3155,70.9672,289.1326,65.6506,287.2003,67.5828,281.8837,61.12,289.3155" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[ed10624c06dd9a4fa49ccf290e8b16a8]
+link E8 to E9--><g id="link_E8_E9"><a href="psysml:ae6bc5ee-b612-4296-a880-4481102ca0b9" target="_top" title="psysml:ae6bc5ee-b612-4296-a880-4481102ca0b9" xlink:actuate="onRequest" xlink:href="psysml:ae6bc5ee-b612-4296-a880-4481102ca0b9" xlink:show="new" xlink:title="psysml:ae6bc5ee-b612-4296-a880-4481102ca0b9" xlink:type="simple"><path d="M50.11,305.1955 C48.78,314.7255 48.27,329.3555 55,339.5955 C55.68,340.6155 56.4,341.6155 57.16,342.5755 " fill="none" id="E8-to-E9" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="60.27,346.0155,57.1847,336.6624,56.9102,342.3126,51.26,342.0381,60.27,346.0155" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="194" x="56" y="336.0907">[durationMinutes &lt;= limitMinutes]</text></a></g><!--MD5=[de116e21047ded6283635ff91c92fb70]
+link E8 to E10--><g id="link_E8_E10"><a href="psysml:004766ed-298e-4e70-b935-2d4b20c29008" target="_top" title="psysml:004766ed-298e-4e70-b935-2d4b20c29008" xlink:actuate="onRequest" xlink:href="psysml:004766ed-298e-4e70-b935-2d4b20c29008" xlink:show="new" xlink:title="psysml:004766ed-298e-4e70-b935-2d4b20c29008" xlink:type="simple"><path d="M59.17,299.9255 C66.77,304.2655 79.27,310.7155 91,313.5955 C108.72,317.9355 239.51,311.9555 255,321.5955 C262.77,326.4255 258.4,333.2455 265,339.5955 C266.32,340.8655 267.71,342.0955 269.15,343.2855 " fill="none" id="E8-to-E10" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="273.01,346.2555,268.3182,337.596,269.0479,343.2056,263.4383,343.9353,273.01,346.2555" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[562bf9eadb4b5f21a979e7842dbac6c5]
+@startuml
+
+skin sysmlbw
+
+skinparam monochrome true
+
+skinparam wrapWidth 300
+
+hide circle
+
+skinparam ranksep 8
+
+
+
+rec def "~<Filter> Отбор прогулок по времени" as E1  <<(T,blue) action  def>> [[psysml:60f07503-3fa3-4e44-b1e5-2af76fdbb88c ]] {
+
+portin "sameCountry" as E2  [[psysml:81f29d65-363d-4ee7-bdd3-d6b97823dd94 ]]
+
+portin "durationMinutes" as E3  [[psysml:3b622f48-81a8-4a7e-87bf-e15357de105c ]]
+
+portin "limitMinutes" as E4  [[psysml:5d9f7de5-572b-48a2-9edb-5f66cccae2f8 ]]
+
+rec usage "~<match> Проверить страну" as E5  <<(T,blue) action>> [[psysml:03596b38-a64b-4e23-ab48-01e1185f7434 ]] {
+
+}
+
+
+
+rec usage "~<compare> Сравнить длительность с лимитом" as E6  <<(T,blue) action>> [[psysml:2c03fb97-5d51-47c5-a80a-d634e53f89f6 ]] {
+
+}
+
+
+
+choice "<s>noname</s>" as E7  [[psysml:5cff5057-830a-4ef7-bd41-84cb36f1e610 ]]
+
+choice "<s>noname</s>" as E8  [[psysml:b3785080-bd5d-4cef-8bdd-6a84a036a13a ]]
+
+rec usage "~<show> Показать прогулку" as E9  <<(T,blue) action>> [[psysml:8efd2351-92fe-45f8-b0f2-32d5770906d8 ]] {
+
+}
+
+
+
+rec usage "~<hide> Скрыть прогулку" as E10  <<(T,blue) action>> [[psysml:a3ad076c-36ba-4add-8324-cc9d503b6f68 ]] {
+
+}
+
+
+
+[*] ..> E5 [[psysml:1f8c6210-2496-4366-b426-a7883621759b ]]
+
+[*] ..> E7 [[psysml:7c73cc24-75f9-4824-93e0-50a6823cbd9f ]]
+
+E9 ..> [*] [[psysml:92203bbd-988d-491f-9ba6-219d6eca9ff0 ]]
+
+E10 ..> [*] [[psysml:7b051110-0aea-4bd9-ad5f-0faf27fe2b94 ]]
+
+}
+
+
+
+E7 ..> E6 [[psysml:d13ee7dc-73f2-4764-8913-92aaa48694b4 ]] : [sameCountry]
+
+E7 ..> E10 [[psysml:56678098-12dc-4f47-a275-3dd0f1adf81d ]]
+
+E6 ..> E8 [[psysml:91ba9503-2701-4f11-ac7e-8cd850d31246 ]]
+
+E8 ..> E9 [[psysml:ae6bc5ee-b612-4296-a880-4481102ca0b9 ]] : [durationMinutes <= limitMinutes]
+
+E8 ..> E10 [[psysml:004766ed-298e-4e70-b935-2d4b20c29008 ]]
+
+@enduml
+
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

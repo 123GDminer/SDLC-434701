@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="311px" preserveAspectRatio="none" style="width:1166px;height:311px;background:#FFFFFF;" version="1.1" viewBox="0 0 1166 311" width="1166px" zoomAndPan="magnify"><defs/><g><!--MD5=[fbc87193dbaf4d95561dea2c320d4a47]
+cluster E1--><g id="cluster_E1"><a href="psysml:d67e093a-a191-45c6-a92d-fec2b261577e" target="_top" title="psysml:d67e093a-a191-45c6-a92d-fec2b261577e" xlink:actuate="onRequest" xlink:href="psysml:d67e093a-a191-45c6-a92d-fec2b261577e" xlink:show="new" xlink:title="psysml:d67e093a-a191-45c6-a92d-fec2b261577e" xlink:type="simple"><polygon fill="none" points="16,6,274,6,281,29.6094,1149,29.6094,1149,304.3,16,304.3,16,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="281" y1="29.6094" y2="29.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="252" x="20" y="22.5332">&lt;ReaderCases&gt; Сценарии читателя</text></a></g><!--MD5=[55dfccfc6c49c2d10cd1bd2211a6c90c]
+cluster E8--><g id="cluster_E8"><a href="psysml:8fbc23ad-d961-4695-a7ce-ab2791746669" target="_top" title="psysml:8fbc23ad-d961-4695-a7ce-ab2791746669" xlink:actuate="onRequest" xlink:href="psysml:8fbc23ad-d961-4695-a7ce-ab2791746669" xlink:show="new" xlink:title="psysml:8fbc23ad-d961-4695-a7ce-ab2791746669" xlink:type="simple"><rect fill="#FFFFFF" height="133.71" id="E8" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="217" x="48" y="58"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="63" x="125" y="75.457">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="92.5" y="92.627">Открыть маршрут</text><line style="stroke:#383838;stroke-width:1.0;" x1="48" x2="265" y1="100.7031" y2="100.7031"/></a></g><!--MD5=[09b614a08d8cba4a07c9adeb5e0fee81]
+class E3--><a href="psysml:efac66a4-3878-45c7-82b3-31ade636d5a2" target="_top" title="psysml:efac66a4-3878-45c7-82b3-31ade636d5a2" xlink:actuate="onRequest" xlink:href="psysml:efac66a4-3878-45c7-82b3-31ade636d5a2" xlink:show="new" xlink:title="psysml:efac66a4-3878-45c7-82b3-31ade636d5a2" xlink:type="simple"><g id="elem_E3"><rect fill="#FFFFFF" height="50.7031" id="E3" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="56" x="316" y="232.65"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="54" x="317" y="250.107">«subject»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="326.5" y="267.277">guide</text><line style="stroke:#181818;stroke-width:0.5;" x1="317" x2="371" y1="275.3531" y2="275.3531"/></g></a><!--MD5=[ebbe1d658d1005bcc118a6aa81145e00]
+class E4--><a href="psysml:f86b0c0d-6118-45ec-a942-626cda76f9b0" target="_top" title="psysml:f86b0c0d-6118-45ec-a942-626cda76f9b0" xlink:actuate="onRequest" xlink:href="psysml:f86b0c0d-6118-45ec-a942-626cda76f9b0" xlink:show="new" xlink:title="psysml:f86b0c0d-6118-45ec-a942-626cda76f9b0" xlink:type="simple"><g id="elem_E4"><rect fill="#FFFFFF" height="60.5938" id="E4" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="157" x="407.5" y="227.71"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="468.5" y="245.167">«part»</text><path d="M421.5,247.8038 C418.75,247.8038 416.5,250.6038 416.5,254.0538 C416.5,257.5038 418.75,260.3038 421.5,260.3038 C424.25,260.3038 426.5,257.5038 426.5,254.0538 C426.5,250.6038 424.25,247.8038 421.5,247.8038 M416.275,260.3038 C413.625,260.4288 411.5,262.6038 411.5,265.3038 L411.5,267.8038 L431.5,267.8038 L431.5,265.3038 C431.5,262.6038 429.4,260.4288 426.725,260.3038 C425.375,261.8288 423.525,262.8038 421.5,262.8038 C419.475,262.8038 417.625,261.8288 416.275,260.3038 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="436.5" y="272.2276">Читатель: Reader</text><line style="stroke:#181818;stroke-width:0.5;" x1="408.5" x2="563.5" y1="280.3038" y2="280.3038"/></g></a><!--MD5=[60a26617385b1d2d0262a64233df1f8d]
+class E6--><a href="psysml:33cd8272-0c7c-4cf5-b395-092a05dce515" target="_top" title="psysml:33cd8272-0c7c-4cf5-b395-092a05dce515" xlink:actuate="onRequest" xlink:href="psysml:33cd8272-0c7c-4cf5-b395-092a05dce515" xlink:show="new" xlink:title="psysml:33cd8272-0c7c-4cf5-b395-092a05dce515" xlink:type="simple"><g id="elem_E6"><rect fill="#FFFFFF" height="50.7031" id="E6" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="56" x="600" y="232.65"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="54" x="601" y="250.107">«subject»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="610.5" y="267.277">guide</text><line style="stroke:#181818;stroke-width:0.5;" x1="601" x2="655" y1="275.3531" y2="275.3531"/></g></a><!--MD5=[2156ba9850f5573cc1fc38a6a4b2f02b]
+class E7--><a href="psysml:376d22a1-4242-42c1-9939-ebe8ddb1104f" target="_top" title="psysml:376d22a1-4242-42c1-9939-ebe8ddb1104f" xlink:actuate="onRequest" xlink:href="psysml:376d22a1-4242-42c1-9939-ebe8ddb1104f" xlink:show="new" xlink:title="psysml:376d22a1-4242-42c1-9939-ebe8ddb1104f" xlink:type="simple"><g id="elem_E7"><rect fill="#FFFFFF" height="60.5938" id="E7" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="157" x="691.5" y="227.71"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="752.5" y="245.167">«part»</text><path d="M705.5,247.8038 C702.75,247.8038 700.5,250.6038 700.5,254.0538 C700.5,257.5038 702.75,260.3038 705.5,260.3038 C708.25,260.3038 710.5,257.5038 710.5,254.0538 C710.5,250.6038 708.25,247.8038 705.5,247.8038 M700.275,260.3038 C697.625,260.4288 695.5,262.6038 695.5,265.3038 L695.5,267.8038 L715.5,267.8038 L715.5,265.3038 C715.5,262.6038 713.4,260.4288 710.725,260.3038 C709.375,261.8288 707.525,262.8038 705.5,262.8038 C703.475,262.8038 701.625,261.8288 700.275,260.3038 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="720.5" y="272.2276">Читатель: Reader</text><line style="stroke:#181818;stroke-width:0.5;" x1="692.5" x2="847.5" y1="280.3038" y2="280.3038"/></g></a><!--MD5=[fd4143e9d270a159db93a4ea2a975926]
+class E9--><a href="psysml:11bb7094-695c-43b0-9cd6-635d829c645a" target="_top" title="psysml:11bb7094-695c-43b0-9cd6-635d829c645a" xlink:actuate="onRequest" xlink:href="psysml:11bb7094-695c-43b0-9cd6-635d829c645a" xlink:show="new" xlink:title="psysml:11bb7094-695c-43b0-9cd6-635d829c645a" xlink:type="simple"><g id="elem_E9"><rect fill="#FFFFFF" height="50.7031" id="E9" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="56" x="32" y="232.65"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="54" x="33" y="250.107">«subject»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="42.5" y="267.277">guide</text><line style="stroke:#181818;stroke-width:0.5;" x1="33" x2="87" y1="275.3531" y2="275.3531"/></g></a><!--MD5=[96f4274e9e20536e775497830990834d]
+class E10--><a href="psysml:80357a39-fcf4-41c0-ba5b-1bff71bf6808" target="_top" title="psysml:80357a39-fcf4-41c0-ba5b-1bff71bf6808" xlink:actuate="onRequest" xlink:href="psysml:80357a39-fcf4-41c0-ba5b-1bff71bf6808" xlink:show="new" xlink:title="psysml:80357a39-fcf4-41c0-ba5b-1bff71bf6808" xlink:type="simple"><g id="elem_E10"><rect fill="#FFFFFF" height="60.5938" id="E10" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="157" x="123.5" y="227.71"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="184.5" y="245.167">«part»</text><path d="M137.5,247.8038 C134.75,247.8038 132.5,250.6038 132.5,254.0538 C132.5,257.5038 134.75,260.3038 137.5,260.3038 C140.25,260.3038 142.5,257.5038 142.5,254.0538 C142.5,250.6038 140.25,247.8038 137.5,247.8038 M132.275,260.3038 C129.625,260.4288 127.5,262.6038 127.5,265.3038 L127.5,267.8038 L147.5,267.8038 L147.5,265.3038 C147.5,262.6038 145.4,260.4288 142.725,260.3038 C141.375,261.8288 139.525,262.8038 137.5,262.8038 C135.475,262.8038 133.625,261.8288 132.275,260.3038 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="152.5" y="272.2276">Читатель: Reader</text><line style="stroke:#181818;stroke-width:0.5;" x1="124.5" x2="279.5" y1="280.3038" y2="280.3038"/></g></a><!--MD5=[ee3c913d1a06f366521f9ef512b67efe]
+class E13--><a href="psysml:d001ba34-9cd6-4735-bd84-e04ee7b73374" target="_top" title="psysml:d001ba34-9cd6-4735-bd84-e04ee7b73374" xlink:actuate="onRequest" xlink:href="psysml:d001ba34-9cd6-4735-bd84-e04ee7b73374" xlink:show="new" xlink:title="psysml:d001ba34-9cd6-4735-bd84-e04ee7b73374" xlink:type="simple"><g id="elem_E13"><rect fill="#FFFFFF" height="50.7031" id="E13" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="56" x="884" y="232.65"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="54" x="885" y="250.107">«subject»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="894.5" y="267.277">guide</text><line style="stroke:#181818;stroke-width:0.5;" x1="885" x2="939" y1="275.3531" y2="275.3531"/></g></a><!--MD5=[bee11217b2f71d958a27249dc326068c]
+class E14--><a href="psysml:8fdf426c-ad54-4062-bb45-af152619b937" target="_top" title="psysml:8fdf426c-ad54-4062-bb45-af152619b937" xlink:actuate="onRequest" xlink:href="psysml:8fdf426c-ad54-4062-bb45-af152619b937" xlink:show="new" xlink:title="psysml:8fdf426c-ad54-4062-bb45-af152619b937" xlink:type="simple"><g id="elem_E14"><rect fill="#FFFFFF" height="60.5938" id="E14" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="157" x="975.5" y="227.71"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="35" x="1036.5" y="245.167">«part»</text><path d="M989.5,247.8038 C986.75,247.8038 984.5,250.6038 984.5,254.0538 C984.5,257.5038 986.75,260.3038 989.5,260.3038 C992.25,260.3038 994.5,257.5038 994.5,254.0538 C994.5,250.6038 992.25,247.8038 989.5,247.8038 M984.275,260.3038 C981.625,260.4288 979.5,262.6038 979.5,265.3038 L979.5,267.8038 L999.5,267.8038 L999.5,265.3038 C999.5,262.6038 997.4,260.4288 994.725,260.3038 C993.375,261.8288 991.525,262.8038 989.5,262.8038 C987.475,262.8038 985.625,261.8288 984.275,260.3038 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="1004.5" y="272.2276">Читатель: Reader</text><line style="stroke:#181818;stroke-width:0.5;" x1="976.5" x2="1131.5" y1="280.3038" y2="280.3038"/></g></a><g><a href="psysml:f8f626ee-244b-4933-ad71-4528f11f0d1d" target="_top" title="psysml:f8f626ee-244b-4933-ad71-4528f11f0d1d" xlink:actuate="onRequest" xlink:href="psysml:f8f626ee-244b-4933-ad71-4528f11f0d1d" xlink:show="new" xlink:title="psysml:f8f626ee-244b-4933-ad71-4528f11f0d1d" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E2" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="161" x="363.5" y="120"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="63" x="412.5" y="137.457">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="369" y="154.627">Просмотреть каталог</text></a></g><g><a href="psysml:6ff3df0d-25aa-4b5c-8041-a77c9a46892f" target="_top" title="psysml:6ff3df0d-25aa-4b5c-8041-a77c9a46892f" xlink:actuate="onRequest" xlink:href="psysml:6ff3df0d-25aa-4b5c-8041-a77c9a46892f" xlink:show="new" xlink:title="psysml:6ff3df0d-25aa-4b5c-8041-a77c9a46892f" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E5" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="165" x="587.5" y="120"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="63" x="638.5" y="137.457">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="146" x="593" y="154.627">Отобрать по времени</text></a></g><g><a href="psysml:66e06a58-a1c0-4835-87c4-cc71161fa56e" target="_top" title="psysml:66e06a58-a1c0-4835-87c4-cc71161fa56e" xlink:actuate="onRequest" xlink:href="psysml:66e06a58-a1c0-4835-87c4-cc71161fa56e" xlink:show="new" xlink:title="psysml:66e06a58-a1c0-4835-87c4-cc71161fa56e" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E11" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="150" x="72" y="120"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="106" x="94" y="137.457">«include use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="77.5" y="154.627">Показать остановки</text></a></g><g><a href="psysml:110e4c32-29e5-4fb7-9daa-193b61778528" target="_top" title="psysml:110e4c32-29e5-4fb7-9daa-193b61778528" xlink:actuate="onRequest" xlink:href="psysml:110e4c32-29e5-4fb7-9daa-193b61778528" xlink:show="new" xlink:title="psysml:110e4c32-29e5-4fb7-9daa-193b61778528" xlink:type="simple"><rect fill="#FFFFFF" height="47.7031" id="E12" rx="10" ry="10" style="stroke:#383838;stroke-width:1.5;" width="118" x="924" y="120"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="63" x="951.5" y="137.457">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="929.5" y="154.627">Открыть обзор</text></a></g><!--MD5=[209b3feb70ccb6233bfe1053d122c12c]
+reverse link E2 to E3--><g id="link_E2_E3"><a href="psysml:d0bbb4f0-0510-49b4-ae26-cb703231a9ea" target="_top" title="psysml:d0bbb4f0-0510-49b4-ae26-cb703231a9ea" xlink:actuate="onRequest" xlink:href="psysml:d0bbb4f0-0510-49b4-ae26-cb703231a9ea" xlink:show="new" xlink:title="psysml:d0bbb4f0-0510-49b4-ae26-cb703231a9ea" xlink:type="simple"><path d="M413.7,178.84 C398.36,196.04 380.07,216.55 366.08,232.24 " fill="none" id="E2-backto-E3" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="422.27,169.22,415.2933,171.0438,414.2935,178.1853,421.2702,176.3615,422.27,169.22" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[4d03bb2d0377dc85ccfab60ff574652b]
+link E2 to E4--><g id="link_E2_E4"><a href="psysml:b4f35de7-0a6e-408a-81c8-8fd85b9fc756" target="_top" title="psysml:b4f35de7-0a6e-408a-81c8-8fd85b9fc756" xlink:actuate="onRequest" xlink:href="psysml:b4f35de7-0a6e-408a-81c8-8fd85b9fc756" xlink:show="new" xlink:title="psysml:b4f35de7-0a6e-408a-81c8-8fd85b9fc756" xlink:type="simple"><path d="M452.7,168.09 C459.14,185.29 467.96,208.84 474.91,227.39 " fill="none" id="E2-E4" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[85d356282659285ab4b2cfe2f634dd2b]
+reverse link E5 to E6--><g id="link_E5_E6"><a href="psysml:e3307e3b-3302-44c4-b873-c1c0da7ab7d9" target="_top" title="psysml:e3307e3b-3302-44c4-b873-c1c0da7ab7d9" xlink:actuate="onRequest" xlink:href="psysml:e3307e3b-3302-44c4-b873-c1c0da7ab7d9" xlink:show="new" xlink:title="psysml:e3307e3b-3302-44c4-b873-c1c0da7ab7d9" xlink:type="simple"><path d="M656.25,181.57 C650.03,198.18 642.84,217.37 637.27,232.24 " fill="none" id="E5-backto-E6" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="660.77,169.51,654.9201,173.7265,656.5623,180.7481,662.4122,176.5316,660.77,169.51" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[3a9b96bfbf6b6ad89c494e81751bda47]
+link E5 to E7--><g id="link_E5_E7"><a href="psysml:62e4c4ec-46da-4e10-922a-2f3ca57608be" target="_top" title="psysml:62e4c4ec-46da-4e10-922a-2f3ca57608be" xlink:actuate="onRequest" xlink:href="psysml:62e4c4ec-46da-4e10-922a-2f3ca57608be" xlink:show="new" xlink:title="psysml:62e4c4ec-46da-4e10-922a-2f3ca57608be" xlink:type="simple"><path d="M690.72,168.09 C706.05,185.29 727.05,208.84 743.59,227.39 " fill="none" id="E5-E7" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[22f5b4bae7e060dce8a1c8021efdb95b]
+reverse link E8 to E9--><g id="link_E8_E9"><a href="psysml:2468a14d-2bde-4c95-a8f5-a56bc7561447" target="_top" title="psysml:2468a14d-2bde-4c95-a8f5-a56bc7561447" xlink:actuate="onRequest" xlink:href="psysml:2468a14d-2bde-4c95-a8f5-a56bc7561447" xlink:show="new" xlink:title="psysml:2468a14d-2bde-4c95-a8f5-a56bc7561447" xlink:type="simple"><path d="M249.333,191.9877 C249.2867,192.0887 249.2401,192.1896 249.1932,192.2904 C249.0994,192.492 249.0045,192.693 248.9086,192.8934 C248.5247,193.695 248.1233,194.4874 247.7035,195.2686 C246.8641,196.8309 245.9513,198.3484 244.9589,199.806 C242.9742,202.7211 240.6713,205.3963 238,207.71 C193.15,246.55 161.56,206.87 106,227.71 C100.06,229.93 94.08,233 88.48,236.32 " fill="none" id="E8-backto-E9" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="249.333,191.9877,243.1957,195.7735,244.3298,202.8949,250.4672,199.109,249.333,191.9877" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[de116e21047ded6283635ff91c92fb70]
+link E8 to E10--><g id="link_E8_E10"><a href="psysml:473aa9db-7e11-4e53-bcde-d8198c6e5900" target="_top" title="psysml:473aa9db-7e11-4e53-bcde-d8198c6e5900" xlink:actuate="onRequest" xlink:href="psysml:473aa9db-7e11-4e53-bcde-d8198c6e5900" xlink:show="new" xlink:title="psysml:473aa9db-7e11-4e53-bcde-d8198c6e5900" xlink:type="simple"><path d="M244.7581,191.7389 C244.719,191.8465 244.6798,191.9542 244.6404,192.0618 C244.5618,192.2771 244.4827,192.4923 244.4033,192.7074 C243.7678,194.4279 243.1072,196.1411 242.4212,197.8364 C241.0494,201.227 239.5763,204.5463 238,207.71 C234.69,214.35 230.5,221.04 226.16,227.26 " fill="none" id="E8-E10" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[062ed86c389d1a88f61c6380d0491e17]
+reverse link E12 to E13--><g id="link_E12_E13"><a href="psysml:727757bf-3a1f-4bd3-b068-68286b1593e0" target="_top" title="psysml:727757bf-3a1f-4bd3-b068-68286b1593e0" xlink:actuate="onRequest" xlink:href="psysml:727757bf-3a1f-4bd3-b068-68286b1593e0" xlink:show="new" xlink:title="psysml:727757bf-3a1f-4bd3-b068-68286b1593e0" xlink:type="simple"><path d="M960.55,180.32 C949.86,197.21 937.33,217 927.68,232.24 " fill="none" id="E12-backto-E13" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="967.48,169.37,960.8905,172.2989,961.0597,179.508,967.6492,176.5791,967.48,169.37" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[d53cb08dffc8689d16e38c8e194e9adc]
+link E12 to E14--><g id="link_E12_E14"><a href="psysml:c305f76c-c36b-4974-a7cd-34496fffcfeb" target="_top" title="psysml:c305f76c-c36b-4974-a7cd-34496fffcfeb" xlink:actuate="onRequest" xlink:href="psysml:c305f76c-c36b-4974-a7cd-34496fffcfeb" xlink:show="new" xlink:title="psysml:c305f76c-c36b-4974-a7cd-34496fffcfeb" xlink:type="simple"><path d="M997.71,168.09 C1008.6,185.29 1023.51,208.84 1035.25,227.39 " fill="none" id="E12-E14" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[cf312b9fc13980635560c2e97a10329c]
+@startuml
+
+skin sysmlbw
+
+skinparam monochrome true
+
+skinparam wrapWidth 300
+
+hide circle
+
+
+
+package "~<ReaderCases> Сценарии читателя" as E1  [[psysml:d67e093a-a191-45c6-a92d-fec2b261577e ]]  {
+
+rec usage "Просмотреть каталог  " as E2  <<(T,blue) use case>> [[psysml:f8f626ee-244b-4933-ad71-4528f11f0d1d ]] {
+
+}
+
+comp usage "guide" as E3 <<subject>>[[psysml:efac66a4-3878-45c7-82b3-31ade636d5a2 ]] {
+
+}
+
+comp usage "<size:30><&person></size> Читатель: Reader  " as E4  <<(T,blue) part>> [[psysml:f86b0c0d-6118-45ec-a942-626cda76f9b0 ]] {
+
+}
+
+rec usage "Отобрать по времени  " as E5  <<(T,blue) use case>> [[psysml:6ff3df0d-25aa-4b5c-8041-a77c9a46892f ]] {
+
+}
+
+comp usage "guide" as E6 <<subject>>[[psysml:33cd8272-0c7c-4cf5-b395-092a05dce515 ]] {
+
+}
+
+comp usage "<size:30><&person></size> Читатель: Reader  " as E7  <<(T,blue) part>> [[psysml:376d22a1-4242-42c1-9939-ebe8ddb1104f ]] {
+
+}
+
+rec usage "Открыть маршрут  " as E8  <<(T,blue) use case>> [[psysml:8fbc23ad-d961-4695-a7ce-ab2791746669 ]] {
+
+rec usage "Показать остановки  " as E11  << include use case>> [[psysml:66e06a58-a1c0-4835-87c4-cc71161fa56e ]] {
+
+}
+
+}
+
+comp usage "guide" as E9 <<subject>>[[psysml:11bb7094-695c-43b0-9cd6-635d829c645a ]] {
+
+}
+
+comp usage "<size:30><&person></size> Читатель: Reader  " as E10  <<(T,blue) part>> [[psysml:80357a39-fcf4-41c0-ba5b-1bff71bf6808 ]] {
+
+}
+
+rec usage "Открыть обзор  " as E12  <<(T,blue) use case>> [[psysml:110e4c32-29e5-4fb7-9daa-193b61778528 ]] {
+
+}
+
+comp usage "guide" as E13 <<subject>>[[psysml:d001ba34-9cd6-4735-bd84-e04ee7b73374 ]] {
+
+}
+
+comp usage "<size:30><&person></size> Читатель: Reader  " as E14  <<(T,blue) part>> [[psysml:8fdf426c-ad54-4062-bb45-af152619b937 ]] {
+
+}
+
+}
+
+E2 o- - E3 [[psysml:d0bbb4f0-0510-49b4-ae26-cb703231a9ea ]]
+
+E2 - - E4 [[psysml:b4f35de7-0a6e-408a-81c8-8fd85b9fc756 ]]
+
+E5 o- - E6 [[psysml:e3307e3b-3302-44c4-b873-c1c0da7ab7d9 ]]
+
+E5 - - E7 [[psysml:62e4c4ec-46da-4e10-922a-2f3ca57608be ]]
+
+E8 o- - E9 [[psysml:2468a14d-2bde-4c95-a8f5-a56bc7561447 ]]
+
+E8 - - E10 [[psysml:473aa9db-7e11-4e53-bcde-d8198c6e5900 ]]
+
+E12 o- - E13 [[psysml:727757bf-3a1f-4bd3-b068-68286b1593e0 ]]
+
+E12 - - E14 [[psysml:c305f76c-c36b-4974-a7cd-34496fffcfeb ]]
+
+@enduml
+
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

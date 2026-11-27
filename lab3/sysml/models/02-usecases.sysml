@@ -1,53 +1,43 @@
-package ElectronicGuide {
-    doc /* Предварительная модель программы «Электронный путеводитель».
-           База содержит только внесённые страны, их достопримечательности
-           и маршруты по достопримечательностям. */
+// Электронный путеводитель. Варианты использования и их связи.
+package GuideUseCases {
+    package <ReaderCases> 'Сценарии читателя' {
+        private import GuideContext::*;
 
-    part def Visitor;
-    part def CountryDatabase;
-    part def CatalogScreen;
-    part def AttractionScreen;
-    part def RouteScreen;
-
-    part def GuideSystem {
-        part database : CountryDatabase;
-        part catalog : CatalogScreen;
-        part attractionView : AttractionScreen;
-        part routeView : RouteScreen;
+        use case 'Просмотреть каталог' {
+            subject guide : Guide;
+            actor 'Читатель' : Reader;
+        }
+        use case 'Отобрать по времени' {
+            subject guide : Guide;
+            actor 'Читатель' : Reader;
+        }
+        use case 'Открыть маршрут' {
+            subject guide : Guide;
+            actor 'Читатель' : Reader;
+            include use case 'Показать остановки' {
+                subject guide;
+            }
+        }
+        use case 'Открыть обзор' {
+            subject guide : Guide;
+            actor 'Читатель' : Reader;
+        }
     }
 
-    use case def BrowseCountries {
-        doc /* Посетитель просматривает страны из базы. При ошибке загрузки получает сообщение; частичные записи не показываются как полный каталог. */
-        subject guide : GuideSystem;
-        actor visitor : Visitor;
-    }
+    package <AuthorCases> 'Сценарии автора' {
+        private import GuideContext::*;
 
-    use case def ViewAttractions {
-        doc /* При выборе страны обновляются списки достопримечательностей и маршрутов. */
-        subject guide : GuideSystem;
-        actor visitor : Visitor;
-    }
-
-    use case def ViewRoute {
-        doc /* Посетитель видит страну, название маршрута, длительность в минутах и порядок остановок. */
-        subject guide : GuideSystem;
-        actor visitor : Visitor;
-    }
-    use case def PublishReview {
-        doc /* Посетитель добавляет место или маршрут и публикует свой отзыв. */
-        subject guide : GuideSystem;
-        actor visitor : Visitor;
-    }
-
-    use case def ShareReview {
-        doc /* Автор передаёт ссылку через внешний канал. Получатель открывает обзор. */
-        subject guide : GuideSystem;
-        actor visitor : Visitor;
-    }
-
-    use case def FilterByDuration {
-        doc /* Турист задаёт лимит времени и видит прогулки выбранной страны в пределах лимита. */
-        subject guide : GuideSystem;
-        actor visitor : Visitor;
+        use case 'Опубликовать отзыв' {
+            subject guide : Guide;
+            actor 'Автор' : Author;
+        }
+        use case 'Прикрепить фотографии' {
+            subject guide : Guide;
+            actor 'Автор' : Author;
+        }
+        use case 'Передать ссылку' {
+            subject guide : Guide;
+            actor 'Автор' : Author;
+        }
     }
 }
