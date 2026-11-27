@@ -36,3 +36,5 @@
 - [05-review-flow](sysml/models/05-review-flow.sysml)
 - [06-gui](sysml/models/06-gui.sysml)
 - [review-photos](sysml/models/review-photos.sysml)
+
+[Варианты использования и отношения include / extend (PlantUML)](sysml/models/guide-usecases.puml)
