@@ -2,6 +2,8 @@
 
 [Актуальный отчёт Word](lab3.docx) · [PDF](lab3.pdf) · [Спецификация](SDLC-lab3_business-requirements/srs.md)
 
+Версия 0.7. В спецификации 20 требований с ID и критериями приёмки. В отчёте 16 рисунков и 14 таблиц.
+
 ## Рисунки
 
 - [01-business-goals](sysml/01-business-goals.png)
@@ -17,6 +19,13 @@
 - [14-git-history](sysml/14-git-history.png)
 - [catalog-mockup-report](sysml/catalog-mockup-report.png)
 - [route-mockup-report](sysml/route-mockup-report.png)
+
+- [Распределение требований по типам](sysml/16-requirements-count.png)
+- [Граница фильтра времени](sysml/17-duration-boundary.png)
+- [Связи сущностей каталога](sysml/18-domain.png)
+- [Карточка достопримечательности](sysml/19-attraction.png)
+- [Экран ошибки загрузки](sysml/20-broken-catalog.png)
+- [Обзор по ссылке](sysml/21-shared-review.png)
 
 ## Текстовые модели
 
