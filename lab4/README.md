@@ -4,4 +4,6 @@
 
 [История ветки на GitHub](https://github.com/123GDminer/SDLC-434701/commits/lab4-system-requirements/) · [Скриншот истории](discussion/github-history.jpg).
 
-[Проект двух раундов обсуждения для комментариев в GitHub](discussion/github-draft.md). Реплики подготовлены для двух аккаунтов.
+[Переписка двух аккаунтов в pull request № 1](https://github.com/123GDminer/SDLC-434701/pull/1)
+
+[Текст реплик](discussion/github-draft.md) · [Скриншот раунда 1](discussion/github-round-1.jpg) · [Скриншот раунда 2](discussion/github-round-2.jpg).

@@ -35,4 +35,4 @@
 
 ## 5. Приложения
 
-[Версии плана и расчёт бюджета](../lab4/plans.md). [Первый раунд](../lab4/discussion/round-1.html). [Второй раунд](../lab4/discussion/round-2.html).
+[Версии плана и расчёт бюджета](../lab4/plans.md). [Первый раунд обсуждения](https://github.com/123GDminer/SDLC-434701/pull/1#issuecomment-7216611953). [Второй раунд обсуждения](https://github.com/123GDminer/SDLC-434701/pull/1#issuecomment-7216624324).
